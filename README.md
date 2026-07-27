@@ -7,7 +7,7 @@ can download and parse on demand. The app also accepts user-selected CSV files.
 
 - `utd24.csv` contains the 24 journal titles displayed by the University of
   Texas at Dallas for its Top 100 Business School Research Rankings.
-- `ft50-2026.csv` contains the Financial Times journal list announced on
+- `FT50.csv` contains the Financial Times journal list announced on
   April 29, 2026.
 
 Each CSV deliberately contains journal titles and source attribution only. It
@@ -26,6 +26,9 @@ WOS Aide Bar therefore does not bundle or publicly mirror those exports.
 People who want Core Collection autocomplete can download the current CSV files
 from Clarivate and import them locally in the app.
 
+The Academic Journal Guide 2024 export is likewise not mirrored here. People
+who are entitled to use that file can import their local CSV into WOS Aide Bar.
+
 ## Source attribution
 
 - UTD Top 100 journal list:
@@ -39,4 +42,3 @@ The lists are provided for identification and interoperability. Financial
 Times, FT, University of Texas at Dallas, Web of Science, and Clarivate are
 marks of their respective owners. This project is independent and is not
 affiliated with or endorsed by those organizations.
-
