@@ -1,12 +1,2 @@
 .DS_Store
-
-# Locally downloaded third-party datasets. These files are intentionally
-# excluded from the public repository until redistribution permission exists.
-Arts & Humanities Citation Index (AHCI).csv
-Emerging Sources Citation Index (ESCI).csv
-Science Citation Index Expanded (SCIE).csv
-Social Sciences Citation Index (SSCI).csv
-ajg_2024.csv
-
-# Private working copies moved out of the public repository surface.
 LocalSources/
