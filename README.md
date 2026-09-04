@@ -16,6 +16,7 @@ text or article content.
 | `SCOPUS/` | Scopus source-title list | [`SCOPUS/README.md`](SCOPUS/README.md) |
 | `SD/` | ScienceDirect active journals and all books | [`SD/README.md`](SD/README.md) |
 | `PUBMED/` | NLM list of journals cited in PubMed | [`PUBMED/README.md`](PUBMED/README.md) |
+| `EI/` | Ei Compendex serial/source list | [`EI/README.md`](EI/README.md) |
 | `CNKI/` | Reserved for CNKI journal-list snapshots | [`CNKI/README.md`](CNKI/README.md) |
 | `LIST/` | AJG 2024, UTD24, FT50 curated lists | [`LIST/README.md`](LIST/README.md) |
 
@@ -67,6 +68,19 @@ The PubMed CSV is generated from the official NLM text file and contains
 abbreviation, and NLM ID. A scheduled GitHub Actions workflow checks for NLM
 updates daily and commits a new TXT/CSV snapshot only when the source changes.
 
+### Ei Compendex
+
+- `EI/compendex_journals.csv` — journal-only Ei Compendex list (`Source Type =
+  Journal`) used for journal matching
+- `EI/compendex_serials.csv` — complete `SERIALS` worksheet from Elsevier's
+  official Compendex Source List, converted to CSV
+- `EI/source_url.txt` — exact official XLSX URL used for the current snapshot
+- `EI/update_compendex.py` — resolves the current source list and converts it
+
+The current August 2026 snapshot contains 4,613 `Journal` rows in the official
+`SERIALS` worksheet. Book series and trade journals remain available in the
+complete serials CSV but are excluded from `compendex_journals.csv`.
+
 ### Curated lists
 
 - `LIST/AJG2024.csv` — Academic Journal Guide 2024
@@ -87,6 +101,8 @@ updates daily and commits a new TXT/CSV snapshot only when the source changes.
   https://www.nlm.nih.gov/bsd/serfile_addedinfo.html
 - NLM PubMed journal-list TXT:
   https://ftp.ncbi.nih.gov/pubmed/J_Medline.txt
+- Elsevier Engineering Village — Compendex:
+  https://www.elsevier.com/products/engineering-village/databases/compendex
 - CNKI Journal Navigation:
   https://navi.cnki.net/knavi/journals/index
 - Academic Journal Guide 2024:
@@ -108,8 +124,9 @@ source-specific datasets maintainable and extensible.
 ## Attribution
 
 The source lists remain associated with their respective publishers and
-organizations. Web of Science and Clarivate, Scopus, ScienceDirect and
-Elsevier, CNKI, Academic Journal Guide and Chartered ABS, Financial Times, and
-The University of Texas at Dallas are marks/names of their respective owners.
+organizations. Web of Science and Clarivate, Scopus, ScienceDirect,
+Engineering Village, Compendex and Elsevier, CNKI, Academic Journal Guide and
+Chartered ABS, Financial Times, and The University of Texas at Dallas are
+marks/names of their respective owners.
 This repository is independent and is not affiliated with or endorsed by
 those organizations.
