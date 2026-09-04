@@ -13,7 +13,7 @@ text or article content.
 | Directory | Contents | Source documentation |
 | --- | --- | --- |
 | `WOS/` | SCIE, SSCI, AHCI, ESCI journal lists | [`WOS/README.md`](WOS/README.md) |
-| `SCOPUS/` | Scopus source-title and book-title lists | [`SCOPUS/README.md`](SCOPUS/README.md) |
+| `SCOPUS/` | Scopus source-title list | [`SCOPUS/README.md`](SCOPUS/README.md) |
 | `SD/` | ScienceDirect active journals and all books | [`SD/README.md`](SD/README.md) |
 | `CNKI/` | Reserved for CNKI journal-list snapshots | [`CNKI/README.md`](CNKI/README.md) |
 | `LIST/` | AJG 2024, UTD24, FT50 curated lists | [`LIST/README.md`](LIST/README.md) |
@@ -38,13 +38,22 @@ of Science Core Collection journal lists and are separate from Clarivate's
 
 ### Scopus
 
-- `SCOPUS/ext_list_Jul_2026.xlsx` — Scopus source-title list
-- `SCOPUS/Scopus_book_list_Q2.xlsx` — Scopus book-title list
+- `SCOPUS/ext_list_Jul_2026.csv` — Scopus source-title list, converted from
+  Elsevier's official July 2026 XLSX download
+
+The previously tracked `SCOPUS/Scopus_book_list_Q2.xlsx` file has been
+removed. The current Scopus source in this repository is limited to the
+source-title list used for journal/source matching.
 
 ### ScienceDirect
 
-- `SD/jnlactive.xlsx` — active ScienceDirect journal titles
-- `SD/allbooks.xlsx` — all ScienceDirect book titles
+- `SD/jnlactive.csv` — active ScienceDirect journal titles, converted from the
+  official XLSX title list
+- `SD/allbooks.csv` — all ScienceDirect book titles, converted from the
+  official XLSX title list
+
+The former XLSX copies are no longer tracked in this repository; the CSV files
+are the maintained application-facing snapshots.
 
 ### Curated lists
 
