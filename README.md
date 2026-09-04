@@ -17,7 +17,7 @@ text or article content.
 | `SD/` | ScienceDirect active journals and all books | [`SD/README.md`](SD/README.md) |
 | `PUBMED/` | NLM list of journals cited in PubMed | [`PUBMED/README.md`](PUBMED/README.md) |
 | `EI/` | Ei Compendex serial/source list | [`EI/README.md`](EI/README.md) |
-| `CNKI/` | Reserved for CNKI journal-list snapshots | [`CNKI/README.md`](CNKI/README.md) |
+| `CNKI/` | PKU Core 2023 and CSSCI 2025–2026 journal lists | [`CNKI/README.md`](CNKI/README.md) |
 | `LIST/` | AJG 2024, UTD24, FT50 curated lists | [`LIST/README.md`](LIST/README.md) |
 
 Each directory README records the official source/download address for the
@@ -81,6 +81,21 @@ The current August 2026 snapshot contains 4,613 `Journal` rows in the official
 `SERIALS` worksheet. Book series and trade journals remain available in the
 complete serials CSV but are excluded from `compendex_journals.csv`.
 
+### Chinese core journal classifications
+
+- `CNKI/PKU_Core_2023.csv` — 1,987 journals from the 2023 edition of
+  《中文核心期刊要目总览》 (PKU Core)
+- `CNKI/CSSCI_2025_2026.csv` — 674 CSSCI source journals for 2025–2026
+- `CNKI/CSSCI_Extended_2025_2026.csv` — 261 CSSCI extended source journals
+  for 2025–2026
+- `CNKI/update_pku_core.py` — downloads and converts the public PKU Core XLSX
+
+These files are grouped under `CNKI/` for WOS Aide's Chinese-journal matching
+workflow. PKU Core and CSSCI are independent evaluation/indexing systems and
+are not published by CNKI. The source CSSCI PDFs are not tracked because the
+reference copies contain institutional watermarks; only normalized table data
+is stored here.
+
 ### Curated lists
 
 - `LIST/AJG2024.csv` — Academic Journal Guide 2024
@@ -103,6 +118,12 @@ complete serials CSV but are excluded from `compendex_journals.csv`.
   https://ftp.ncbi.nih.gov/pubmed/J_Medline.txt
 - Elsevier Engineering Village — Compendex:
   https://www.elsevier.com/products/engineering-village/databases/compendex
+- Beijing Union University core-journal download/reference page:
+  https://lib.buu.edu.cn/Home/ServiceDetail/23948?utm_source=chatgpt.com
+- Peking University Library Core Journal project:
+  http://hxqk.lib.pku.edu.cn/
+- Nanjing University Chinese Social Sciences Research Evaluation Center:
+  https://cssrac.nju.edu.cn/
 - CNKI Journal Navigation:
   https://navi.cnki.net/knavi/journals/index
 - Academic Journal Guide 2024:
@@ -125,8 +146,9 @@ source-specific datasets maintainable and extensible.
 
 The source lists remain associated with their respective publishers and
 organizations. Web of Science and Clarivate, Scopus, ScienceDirect,
-Engineering Village, Compendex and Elsevier, CNKI, Academic Journal Guide and
-Chartered ABS, Financial Times, and The University of Texas at Dallas are
-marks/names of their respective owners.
+Engineering Village, Compendex and Elsevier, CNKI, Peking University Library,
+Nanjing University and CSSCI, Academic Journal Guide and Chartered ABS,
+Financial Times, and The University of Texas at Dallas are marks/names of
+their respective owners.
 This repository is independent and is not affiliated with or endorsed by
 those organizations.
