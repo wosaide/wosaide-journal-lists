@@ -1,0 +1,33 @@
+name: Update PubMed journal list
+
+on:
+  schedule:
+    - cron: "17 7 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Download and convert PubMed journal list
+        run: python3 PUBMED/update_pubmed.py --download
+
+      - name: Commit updated snapshot
+        shell: bash
+        run: |
+          if git diff --quiet -- PUBMED/J_Medline.txt PUBMED/J_Medline.csv; then
+            echo "PubMed journal list is already current."
+            exit 0
+          fi
+
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add PUBMED/J_Medline.txt PUBMED/J_Medline.csv
+          git commit -m "update PubMed journal list"
+          git push

@@ -15,6 +15,7 @@ text or article content.
 | `WOS/` | SCIE, SSCI, AHCI, ESCI journal lists | [`WOS/README.md`](WOS/README.md) |
 | `SCOPUS/` | Scopus source-title list | [`SCOPUS/README.md`](SCOPUS/README.md) |
 | `SD/` | ScienceDirect active journals and all books | [`SD/README.md`](SD/README.md) |
+| `PUBMED/` | NLM list of journals cited in PubMed | [`PUBMED/README.md`](PUBMED/README.md) |
 | `CNKI/` | Reserved for CNKI journal-list snapshots | [`CNKI/README.md`](CNKI/README.md) |
 | `LIST/` | AJG 2024, UTD24, FT50 curated lists | [`LIST/README.md`](LIST/README.md) |
 
@@ -55,6 +56,17 @@ source-title list used for journal/source matching.
 The former XLSX copies are no longer tracked in this repository; the CSV files
 are the maintained application-facing snapshots.
 
+### PubMed
+
+- `PUBMED/J_Medline.txt` — official NLM List of All Journals Cited in PubMed
+- `PUBMED/J_Medline.csv` — generated CSV used for journal/source matching
+- `PUBMED/update_pubmed.py` — downloads the latest TXT and converts it to CSV
+
+The PubMed CSV is generated from the official NLM text file and contains
+`JrId`, journal title and abbreviation fields, print/online ISSNs, ISO
+abbreviation, and NLM ID. A scheduled GitHub Actions workflow checks for NLM
+updates daily and commits a new TXT/CSV snapshot only when the source changes.
+
 ### Curated lists
 
 - `LIST/AJG2024.csv` — Academic Journal Guide 2024
@@ -71,6 +83,10 @@ are the maintained application-facing snapshots.
   https://www.elsevier.com/products/sciencedirect/journals
 - ScienceDirect books/title lists:
   https://www.elsevier.com/products/sciencedirect/books
+- NLM List of All Journals Cited in PubMed:
+  https://www.nlm.nih.gov/bsd/serfile_addedinfo.html
+- NLM PubMed journal-list TXT:
+  https://ftp.ncbi.nih.gov/pubmed/J_Medline.txt
 - CNKI Journal Navigation:
   https://navi.cnki.net/knavi/journals/index
 - Academic Journal Guide 2024:
