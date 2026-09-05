@@ -174899,7 +174899,7 @@ JrId: 36129
 JournalTitle: Connections (Toronto, Ont.)
 MedAbbr: Connect (Tor)
 ISSN (Print): 0226-1766
-ISSN (Online): 
+ISSN (Online): 2816-4245
 IsoAbbr: Connect (Tor)
 NlmId: 101511391
 --------------------------------------------------------
@@ -299808,7 +299808,7 @@ IsoAbbr: AMS Rev (N Y)
 NlmId: 9919130032106676
 --------------------------------------------------------
 JrId: 54444
-JournalTitle: Blood. Red cells & iron
+JournalTitle: Blood red cells & iron
 MedAbbr: Blood Red Cells Iron
 ISSN (Print): 
 ISSN (Online): 3050-5984
@@ -304086,3 +304086,27 @@ ISSN (Print): 1308-2051
 ISSN (Online): 2215-0986
 IsoAbbr: Eng Sci Technol
 NlmId: 9919269452706676
+--------------------------------------------------------
+JrId: 55127
+JournalTitle: BMJ connections. Surgery
+MedAbbr: BMJ Connect Surg
+ISSN (Print): 
+ISSN (Online): 2978-1809
+IsoAbbr: BMJ Connect Surg
+NlmId: 9919269749706676
+--------------------------------------------------------
+JrId: 55133
+JournalTitle: Journal of engineering and applied science
+MedAbbr: J Eng Appl Sci
+ISSN (Print): 1110-1903
+ISSN (Online): 2536-9512
+IsoAbbr: J Eng Appl Sci
+NlmId: 9919269343006676
+--------------------------------------------------------
+JrId: 55134
+JournalTitle: Discover bacteria
+MedAbbr: Discov Bact
+ISSN (Print): 
+ISSN (Online): 3004-9768
+IsoAbbr: Discov Bact
+NlmId: 9919269343106676
