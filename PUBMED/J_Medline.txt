@@ -303895,6 +303895,14 @@ ISSN (Online): 3005-1185
 IsoAbbr: Discov Immun
 NlmId: 9919266553306676
 --------------------------------------------------------
+JrId: 55070
+JournalTitle: Clinical case reports international
+MedAbbr: Clin Case Rep Int
+ISSN (Print): 
+ISSN (Online): 2638-4558
+IsoAbbr: Clin Case Rep Int
+NlmId: 9919266551306676
+--------------------------------------------------------
 JrId: 55077
 JournalTitle: Communications AI & computing
 MedAbbr: Commun AI Comput
@@ -303950,6 +303958,14 @@ ISSN (Print): 1878-5190
 ISSN (Online): 1878-5204
 IsoAbbr: React Kinet Mech Catal
 NlmId: 9919267552606676
+--------------------------------------------------------
+JrId: 55087
+JournalTitle: Journal of pelvic, obstetric and gynaecological physiotherapy
+MedAbbr: J Pelvic Obstet Gynaecol Physiother
+ISSN (Print): 2057-598X
+ISSN (Online): 2977-1854
+IsoAbbr: J Pelvic Obstet Gynaecol Physiother
+NlmId: 101661629
 --------------------------------------------------------
 JrId: 55089
 JournalTitle: Journal of geriatric neurology
@@ -304086,6 +304102,14 @@ ISSN (Print): 1308-2051
 ISSN (Online): 2215-0986
 IsoAbbr: Eng Sci Technol
 NlmId: 9919269452706676
+--------------------------------------------------------
+JrId: 55125
+JournalTitle: Karst groundwater contamination and public health : beyond case studies. Conference "Karst Groundwater Contamination and Public Health" (2016 : San Juan, P.R.)
+MedAbbr: Karst Groundw Contam Public Health (2016)
+ISSN (Print): 
+ISSN (Online): 
+IsoAbbr: Karst Groundw Contam Public Health (2016)
+NlmId: 9919269452806676
 --------------------------------------------------------
 JrId: 55127
 JournalTitle: BMJ connections. Surgery
