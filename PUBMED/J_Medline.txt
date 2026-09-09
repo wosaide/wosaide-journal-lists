@@ -303863,6 +303863,14 @@ ISSN (Online): 2214-9937
 IsoAbbr: Sustain Mater Technol
 NlmId: 9919266250906676
 --------------------------------------------------------
+JrId: 55060
+JournalTitle: Nutritional psychiatry
+MedAbbr: Nutr Psychiatry
+ISSN (Print): 
+ISSN (Online): 3051-1569
+IsoAbbr: Nutr Psychiatry
+NlmId: 9919266251006676
+--------------------------------------------------------
 JrId: 55065
 JournalTitle: International journal of pavement engineering
 MedAbbr: Int J Pavement Eng
@@ -304134,3 +304142,11 @@ ISSN (Print):
 ISSN (Online): 3004-9768
 IsoAbbr: Discov Bact
 NlmId: 9919269343106676
+--------------------------------------------------------
+JrId: 55136
+JournalTitle: Proceedings of the Linguistic Society of America. Linguistic Society of America. Annual Meeting
+MedAbbr: Proc Linguist Soc Am
+ISSN (Print): 
+ISSN (Online): 2473-8689
+IsoAbbr: Proc Linguist Soc Am
+NlmId: 9919269342906676
