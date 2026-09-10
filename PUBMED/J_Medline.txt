@@ -304103,6 +304103,14 @@ ISSN (Online): 2688-3007
 IsoAbbr: ACM Trans Evol Learn Optim
 NlmId: 9919269350706676
 --------------------------------------------------------
+JrId: 55122
+JournalTitle: Journal of colon and rectal cancer
+MedAbbr: J Colon Rectal Cancer
+ISSN (Print): 
+ISSN (Online): 2471-7061
+IsoAbbr: J Colon Rectal Cancer
+NlmId: 9919269350606676
+--------------------------------------------------------
 JrId: 55123
 JournalTitle: Engineering science and technology
 MedAbbr: Eng Sci Technol
@@ -304150,3 +304158,11 @@ ISSN (Print):
 ISSN (Online): 2473-8689
 IsoAbbr: Proc Linguist Soc Am
 NlmId: 9919269342906676
+--------------------------------------------------------
+JrId: 55147
+JournalTitle: The 6th International Conference on Wireless, Intelligent and Distributed Environment for Communication : WIDECOM 2023 : International Conference on Wireless, Intelligent and Distributed Environment for Communication, St. Catharines, ON...
+MedAbbr: 6th Int Conf Wirel Intell Distrib Environ Commun (2023)
+ISSN (Print): 
+ISSN (Online): 
+IsoAbbr: 6th Int Conf Wirel Intell Distrib Environ Commun (2023)
+NlmId: 9919269342706676
