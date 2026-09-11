@@ -298447,14 +298447,6 @@ ISSN (Online):
 IsoAbbr: Plan Chang
 NlmId: 9919033199706676
 --------------------------------------------------------
-JrId: 54250
-JournalTitle: 2023 International Conference on Next Generation Electronics (NEleX). International Conference on Next Generation Electronics (2023 : Vellore, India)
-MedAbbr: 2023 Int Conf Next Gener Electron NEleX (2023)
-ISSN (Print): 
-ISSN (Online): 
-IsoAbbr: 2023 Int Conf Next Gener Electron NEleX (2023)
-NlmId: 9919033200006676
---------------------------------------------------------
 JrId: 54251
 JournalTitle: Neurology open access
 MedAbbr: Neurol Open Access
