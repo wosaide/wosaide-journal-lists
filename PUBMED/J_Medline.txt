@@ -280952,7 +280952,7 @@ IsoAbbr: Pap Appl Geogr
 NlmId: 9918400286006676
 --------------------------------------------------------
 JrId: 51614
-JournalTitle: Nature reviews psychology
+JournalTitle: Nature reviews. Psychology
 MedAbbr: Nat Rev Psychol
 ISSN (Print): 
 ISSN (Online): 2731-0574
@@ -304158,3 +304158,43 @@ ISSN (Print):
 ISSN (Online): 
 IsoAbbr: 6th Int Conf Wirel Intell Distrib Environ Commun (2023)
 NlmId: 9919269342706676
+--------------------------------------------------------
+JrId: 55149
+JournalTitle: Psychotherapie (Heidelberg, Germany)
+MedAbbr: Psychotherapie (Heidelb)
+ISSN (Print): 2731-7161
+ISSN (Online): 2731-717X
+IsoAbbr: Psychotherapie (Heidelb)
+NlmId: 9918383865606676
+--------------------------------------------------------
+JrId: 55151
+JournalTitle: Chem circularity
+MedAbbr: Chem Circ
+ISSN (Print): 
+ISSN (Online): 3051-2948
+IsoAbbr: Chem Circ
+NlmId: 9919269444706676
+--------------------------------------------------------
+JrId: 55152
+JournalTitle: International journal of educational reform
+MedAbbr: Int J Educ Reform
+ISSN (Print): 1056-7879
+ISSN (Online): 2631-9675
+IsoAbbr: Int J Educ Reform
+NlmId: 9919269444806676
+--------------------------------------------------------
+JrId: 55154
+JournalTitle: Npj exercise medicine and health
+MedAbbr: Npj Exerc Med Health
+ISSN (Print): 
+ISSN (Online): 3059-331X
+IsoAbbr: Npj Exerc Med Health
+NlmId: 9919269534006676
+--------------------------------------------------------
+JrId: 55155
+JournalTitle: Npj fungal science
+MedAbbr: Npj Fungal Sci
+ISSN (Print): 
+ISSN (Online): 3091-3896
+IsoAbbr: Npj Fungal Sci
+NlmId: 9919269533706676
