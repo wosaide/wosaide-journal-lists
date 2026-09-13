@@ -304007,6 +304007,14 @@ ISSN (Online): 2578-8094
 IsoAbbr: J Latinx Psychol
 NlmId: 9919265452406676
 --------------------------------------------------------
+JrId: 55095
+JournalTitle: Personnel review
+MedAbbr: Pers Rev
+ISSN (Print): 0048-3486
+ISSN (Online): 1758-6933
+IsoAbbr: Pers Rev
+NlmId: 9919268752806676
+--------------------------------------------------------
 JrId: 55096
 JournalTitle: Animal advances
 MedAbbr: Anim Adv
@@ -304151,6 +304159,14 @@ ISSN (Online): 2473-8689
 IsoAbbr: Proc Linguist Soc Am
 NlmId: 9919269342906676
 --------------------------------------------------------
+JrId: 55145
+JournalTitle: Imaging and Applied Optics Congress 2022
+MedAbbr: Imaging Appl Opt Congr 2022 (2022)
+ISSN (Print): 
+ISSN (Online): 
+IsoAbbr: Imaging Appl Opt Congr 2022 (2022)
+NlmId: 9919269342806676
+--------------------------------------------------------
 JrId: 55147
 JournalTitle: The 6th International Conference on Wireless, Intelligent and Distributed Environment for Communication : WIDECOM 2023 : International Conference on Wireless, Intelligent and Distributed Environment for Communication, St. Catharines, ON...
 MedAbbr: 6th Int Conf Wirel Intell Distrib Environ Commun (2023)
@@ -304198,3 +304214,11 @@ ISSN (Print):
 ISSN (Online): 3091-3896
 IsoAbbr: Npj Fungal Sci
 NlmId: 9919269533706676
+--------------------------------------------------------
+JrId: 55161
+JournalTitle: The 7th International Conference on Wireless, Intelligent and Distributed Environment for Communication : WIDECOM 2024. International Conference on Wireless, Intelligent and Distributed Environment for Communication (7th : 2024 : Keene,...
+MedAbbr: 7th Int Conf Wirel Intell Distrib Environ Commun (2024)
+ISSN (Print): 
+ISSN (Online): 
+IsoAbbr: 7th Int Conf Wirel Intell Distrib Environ Commun (2024)
+NlmId: 9919270153006676
