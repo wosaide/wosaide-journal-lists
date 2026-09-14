@@ -304159,6 +304159,22 @@ ISSN (Online): 2473-8689
 IsoAbbr: Proc Linguist Soc Am
 NlmId: 9919269342906676
 --------------------------------------------------------
+JrId: 55141
+JournalTitle: Proceedings of the ... Workshop on Patient-Oriented Language Processing
+MedAbbr: Proc Workshop Patient Oriented Lang Process
+ISSN (Print): 
+ISSN (Online): 
+IsoAbbr: Proc Workshop Patient Oriented Lang Process
+NlmId: 9919269729806676
+--------------------------------------------------------
+JrId: 55144
+JournalTitle: Proceedings of Machine Learning and Systems ...
+MedAbbr: Proc Mach Learn Syst
+ISSN (Print): 
+ISSN (Online): 
+IsoAbbr: Proc Mach Learn Syst
+NlmId: 9919269729406676
+--------------------------------------------------------
 JrId: 55145
 JournalTitle: Imaging and Applied Optics Congress 2022
 MedAbbr: Imaging Appl Opt Congr 2022 (2022)
