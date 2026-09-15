@@ -303695,6 +303695,14 @@ ISSN (Online): 2674-0583
 IsoAbbr: SynBio
 NlmId: 9919264113906676
 --------------------------------------------------------
+JrId: 55034
+JournalTitle: International journal of addiction nursing
+MedAbbr: Int J Addctn Nurs
+ISSN (Print): 3068-9589
+ISSN (Online): 3068-9597
+IsoAbbr: Int J Addctn Nurs
+NlmId: 9919264113606676
+--------------------------------------------------------
 JrId: 55035
 JournalTitle: Proceedings of the ... European conference on games based learning. European Conference on Games Based Learning, author
 MedAbbr: Proc Eur Conf Games Based Learn
@@ -304095,6 +304103,14 @@ ISSN (Online): 2158-9682
 IsoAbbr: Dig Tech Pap (N Y)
 NlmId: 9919269352806676
 --------------------------------------------------------
+JrId: 55119
+JournalTitle: Journal of student research
+MedAbbr: J Stud Res (Houst)
+ISSN (Print): 
+ISSN (Online): 2167-1907
+IsoAbbr: J Stud Res (Houst)
+NlmId: 9919269453006676
+--------------------------------------------------------
 JrId: 55121
 JournalTitle: ACM transactions on evolutionary learning and optimization
 MedAbbr: ACM Trans Evol Learn Optim
@@ -304166,6 +304182,14 @@ ISSN (Print):
 ISSN (Online): 
 IsoAbbr: Proc Workshop Patient Oriented Lang Process
 NlmId: 9919269729806676
+--------------------------------------------------------
+JrId: 55142
+JournalTitle: ... Conference on Language Modeling
+MedAbbr: Conf Lang Model
+ISSN (Print): 
+ISSN (Online): 
+IsoAbbr: Conf Lang Model
+NlmId: 9919269730006676
 --------------------------------------------------------
 JrId: 55144
 JournalTitle: Proceedings of Machine Learning and Systems ...
