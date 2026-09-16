@@ -304143,6 +304143,14 @@ ISSN (Online):
 IsoAbbr: Karst Groundw Contam Public Health (2016)
 NlmId: 9919269452806676
 --------------------------------------------------------
+JrId: 55126
+JournalTitle: Respiratory research & clinical practice
+MedAbbr: Respir Res Clin Pract
+ISSN (Print): 
+ISSN (Online): 3086-3910
+IsoAbbr: Respir Res Clin Pract
+NlmId: 9919269228506676
+--------------------------------------------------------
 JrId: 55127
 JournalTitle: BMJ connections. Surgery
 MedAbbr: BMJ Connect Surg
