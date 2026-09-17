@@ -303543,6 +303543,14 @@ ISSN (Online): 2348-1552
 IsoAbbr: Int J Educ
 NlmId: 9919263614406676
 --------------------------------------------------------
+JrId: 55009
+JournalTitle: SafeConfig'15 : proceedings of the 2015 Workshop on Automated Decision Making for Active Cyber Defense : October 12, 2015, Denver, Colorado, USA. Workshop on Automated Decision Making for Active Cyber Defense (2015 : Denver, Colo.)
+MedAbbr: SafeConfig 15 (2015)
+ISSN (Print): 
+ISSN (Online): 
+IsoAbbr: SafeConfig 15 (2015)
+NlmId: 9919264115706676
+--------------------------------------------------------
 JrId: 55010
 JournalTitle: Frontiers in sustainability
 MedAbbr: Front Sustain (Lausanne)
@@ -304095,6 +304103,14 @@ ISSN (Online): 3059-3298
 IsoAbbr: Npj Entomol
 NlmId: 9919268940206676
 --------------------------------------------------------
+JrId: 55114
+JournalTitle: Public library quarterly (New York, N.Y.)
+MedAbbr: Public Libr Q (N Y)
+ISSN (Print): 0161-6846
+ISSN (Online): 
+IsoAbbr: Public Libr Q (N Y)
+NlmId: 101322399
+--------------------------------------------------------
 JrId: 55117
 JournalTitle: Digest of technical papers. Symposium on VLSI Technology
 MedAbbr: Dig Tech Pap (N Y)
@@ -304158,6 +304174,14 @@ ISSN (Print):
 ISSN (Online): 2978-1809
 IsoAbbr: BMJ Connect Surg
 NlmId: 9919269749706676
+--------------------------------------------------------
+JrId: 55131
+JournalTitle: Archives of breast cancer
+MedAbbr: Arch Breast Cancer
+ISSN (Print): 2383-0425
+ISSN (Online): 2383-0433
+IsoAbbr: Arch Breast Cancer
+NlmId: 101681811
 --------------------------------------------------------
 JrId: 55133
 JournalTitle: Journal of engineering and applied science
