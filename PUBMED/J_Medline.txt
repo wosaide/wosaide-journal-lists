@@ -288343,6 +288343,14 @@ ISSN (Online): 2730-647X
 IsoAbbr: Discov Water
 NlmId: 9918662887306676
 --------------------------------------------------------
+JrId: 52772
+JournalTitle: Frontiers in amphibian and reptile science
+MedAbbr: Front Amphib Reptile Sci
+ISSN (Print): 
+ISSN (Online): 2813-6780
+IsoAbbr: Front Amphib Reptile Sci
+NlmId: 9918663389006676
+--------------------------------------------------------
 JrId: 52774
 JournalTitle: Eurasian soil science
 MedAbbr: Eurasia Soil Sci
@@ -304007,6 +304015,14 @@ ISSN (Online): 2694-4030
 IsoAbbr: INFORMS J Data Sci
 NlmId: 9919268552906676
 --------------------------------------------------------
+JrId: 55092
+JournalTitle: Social robotics : 16th International Conference, ICSR + AI 2024, Odense, Denmark, October 23-26, 2024 : proceedings. International Conference on Social Robotics (16th : 2024 : Odense, Denmark)
+MedAbbr: Soc Robot
+ISSN (Print): 
+ISSN (Online): 
+IsoAbbr: Soc Robot
+NlmId: 9919268553106676
+--------------------------------------------------------
 JrId: 55093
 JournalTitle: Journal on advances in signal processing
 MedAbbr: J Adv Signal Process
@@ -304086,6 +304102,14 @@ ISSN (Print): 2325-4270
 ISSN (Online): 2325-4289
 IsoAbbr: IEEE Conf Comput Intell Games
 NlmId: 9919269250706676
+--------------------------------------------------------
+JrId: 55107
+JournalTitle: 2025 3rd International Conference on Artificial Intelligence, Blockchain, and Internet of Things (AIBThings)
+MedAbbr: 2025 3rd Int Conf Artif Intell Blockchain Internet Things (Aibthings) (2025)
+ISSN (Print): 
+ISSN (Online): 
+IsoAbbr: 2025 3rd Int Conf Artif Intell Blockchain Internet Things (Aibthings) (2025)
+NlmId: 9919269250206676
 --------------------------------------------------------
 JrId: 55110
 JournalTitle: Results in surfaces and interfaces
@@ -304294,3 +304318,11 @@ ISSN (Print):
 ISSN (Online): 
 IsoAbbr: 7th Int Conf Wirel Intell Distrib Environ Commun (2024)
 NlmId: 9919270153006676
+--------------------------------------------------------
+JrId: 55171
+JournalTitle: IEEE International Conference on Digital Health. IEEE International Conference on Digital Health
+MedAbbr: IEEE Int Conf Digit Health
+ISSN (Print): 3068-3335
+ISSN (Online): 3068-3343
+IsoAbbr: IEEE Int Conf Digit Health
+NlmId: 9919270152306676
