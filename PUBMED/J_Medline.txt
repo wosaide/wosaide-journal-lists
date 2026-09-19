@@ -32571,7 +32571,7 @@ JrId: 4227
 JournalTitle: Indian journal of public health
 MedAbbr: Indian J Public Health
 ISSN (Print): 0019-557X
-ISSN (Online): 
+ISSN (Online): 2229-7693
 IsoAbbr: Indian J Public Health
 NlmId: 0400673
 --------------------------------------------------------
@@ -126115,7 +126115,7 @@ JrId: 28527
 JournalTitle: Cities (London, England)
 MedAbbr: Cities
 ISSN (Print): 0264-2751
-ISSN (Online): 
+ISSN (Online): 1873-6084
 IsoAbbr: Cities
 NlmId: 101085015
 --------------------------------------------------------
@@ -278599,14 +278599,6 @@ ISSN (Online):
 IsoAbbr: Clin Theriogenology
 NlmId: 101681552
 --------------------------------------------------------
-JrId: 51271
-JournalTitle: 2021 IEEE International Conference on Digital Health (ICDH)
-MedAbbr: 2021 IEEE Int Conf Digit Health ICDH (2021)
-ISSN (Print): 
-ISSN (Online): 
-IsoAbbr: 2021 IEEE Int Conf Digit Health ICDH (2021)
-NlmId: 9918317680306676
---------------------------------------------------------
 JrId: 51272
 JournalTitle: Proceedings of the ... International Conference on Digital Government Research. International Conference on Digital Government Research
 MedAbbr: Proc Int Conf Digit Gov Res
@@ -289406,14 +289398,6 @@ ISSN (Print):
 ISSN (Online): 
 IsoAbbr: ARIC 2022 (2022)
 NlmId: 9918697475906676
---------------------------------------------------------
-JrId: 52926
-JournalTitle: 2022 IEEE International Conference on Digital Health (IEEE ICDH 2022) : proceedings : hybrid conference, Barcelona, Spain, 11-15 July 2022. International Conference on Digital Health (2022 : Barcelona, Spain; Online)
-MedAbbr: 2022 IEEE Int Conf Digit Health IEEE IDCH 2022 (2022)
-ISSN (Print): 
-ISSN (Online): 
-IsoAbbr: 2022 IEEE Int Conf Digit Health IEEE IDCH 2022 (2022)
-NlmId: 9918697476106676
 --------------------------------------------------------
 JrId: 52927
 JournalTitle: ICMI'22 Companion : companion publication of the 2022 International Conference on Multimodal Interaction : November 7-11, 2022, Bangalore, India. ICMI (Conference) (2022 : Bangalore, India)
@@ -304175,6 +304159,14 @@ ISSN (Online): 2215-0986
 IsoAbbr: Eng Sci Technol
 NlmId: 9919269452706676
 --------------------------------------------------------
+JrId: 55124
+JournalTitle: EconPol forum
+MedAbbr: EconPol Forum
+ISSN (Print): 2752-1176
+ISSN (Online): 2752-1184
+IsoAbbr: EconPol Forum
+NlmId: 9919269553406676
+--------------------------------------------------------
 JrId: 55125
 JournalTitle: Karst groundwater contamination and public health : beyond case studies. Conference "Karst Groundwater Contamination and Public Health" (2016 : San Juan, P.R.)
 MedAbbr: Karst Groundw Contam Public Health (2016)
@@ -304230,6 +304222,14 @@ ISSN (Print):
 ISSN (Online): 2473-8689
 IsoAbbr: Proc Linguist Soc Am
 NlmId: 9919269342906676
+--------------------------------------------------------
+JrId: 55138
+JournalTitle: Proceedings of the ... Conference on Cognitive Computational Neuroscience
+MedAbbr: Proc Conf Cogn Comput Neurosci
+ISSN (Print): 
+ISSN (Online): 
+IsoAbbr: Proc Conf Cogn Comput Neurosci
+NlmId: 9919269729506676
 --------------------------------------------------------
 JrId: 55141
 JournalTitle: Proceedings of the ... Workshop on Patient-Oriented Language Processing
@@ -304311,6 +304311,14 @@ ISSN (Online): 3091-3896
 IsoAbbr: Npj Fungal Sci
 NlmId: 9919269533706676
 --------------------------------------------------------
+JrId: 55160
+JournalTitle: Journal of social work and welfare policy
+MedAbbr: J Soc Work Welf Policy
+ISSN (Print): 
+ISSN (Online): 3049-0243
+IsoAbbr: J Soc Work Welf Policy
+NlmId: 9919270352506676
+--------------------------------------------------------
 JrId: 55161
 JournalTitle: The 7th International Conference on Wireless, Intelligent and Distributed Environment for Communication : WIDECOM 2024. International Conference on Wireless, Intelligent and Distributed Environment for Communication (7th : 2024 : Keene,...
 MedAbbr: 7th Int Conf Wirel Intell Distrib Environ Commun (2024)
@@ -304318,6 +304326,30 @@ ISSN (Print):
 ISSN (Online): 
 IsoAbbr: 7th Int Conf Wirel Intell Distrib Environ Commun (2024)
 NlmId: 9919270153006676
+--------------------------------------------------------
+JrId: 55166
+JournalTitle: Journal of financial services marketing
+MedAbbr: J Financ Serv Mark
+ISSN (Print): 1363-0539
+ISSN (Online): 1479-1846
+IsoAbbr: J Financ Serv Mark
+NlmId: 9919270152606676
+--------------------------------------------------------
+JrId: 55168
+JournalTitle: Applied surface science advances
+MedAbbr: Appl Surf Sci Adv
+ISSN (Print): 
+ISSN (Online): 2666-5239
+IsoAbbr: Appl Surf Sci Adv
+NlmId: 9919270543906676
+--------------------------------------------------------
+JrId: 55170
+JournalTitle: Discover neuroscience
+MedAbbr: Discov Neurosci
+ISSN (Print): 
+ISSN (Online): 3005-1827
+IsoAbbr: Discov Neurosci
+NlmId: 9918989695906676
 --------------------------------------------------------
 JrId: 55171
 JournalTitle: IEEE International Conference on Digital Health. IEEE International Conference on Digital Health
