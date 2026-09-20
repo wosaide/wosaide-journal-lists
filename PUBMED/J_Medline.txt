@@ -304063,6 +304063,14 @@ ISSN (Online): 2974-3257
 IsoAbbr: HPB Cancer Int
 NlmId: 9919268652706676
 --------------------------------------------------------
+JrId: 55102
+JournalTitle: Light. Advanced manufacturing
+MedAbbr: Light Adv Manuf
+ISSN (Print): 2689-9620
+ISSN (Online): 2831-4093
+IsoAbbr: Light Adv Manuf
+NlmId: 9919268753106676
+--------------------------------------------------------
 JrId: 55103
 JournalTitle: 2026 International Biennial Conference on Advances in Artificial Intelligence and Data Science (IBAAIDS)
 MedAbbr: 2026 Int Bienn Conf Adv Artif Intell Data Sci (IBAAIDS) (2026)
@@ -304310,6 +304318,14 @@ ISSN (Print):
 ISSN (Online): 3091-3896
 IsoAbbr: Npj Fungal Sci
 NlmId: 9919269533706676
+--------------------------------------------------------
+JrId: 55159
+JournalTitle: Ugdymas. Kuno kultura. Sportas
+MedAbbr: Ugdym Kuno Kult Sport
+ISSN (Print): 
+ISSN (Online): 1392-5644
+IsoAbbr: Ugdym Kuno Kult Sport
+NlmId: 9919270153106676
 --------------------------------------------------------
 JrId: 55160
 JournalTitle: Journal of social work and welfare policy
