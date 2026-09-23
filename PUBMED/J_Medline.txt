@@ -283047,6 +283047,14 @@ ISSN (Online): 1933-9747
 IsoAbbr: Fire Ecol
 NlmId: 9918452988706676
 --------------------------------------------------------
+JrId: 51926
+JournalTitle: Birds (Basel, Switzerland)
+MedAbbr: Birds (Basel)
+ISSN (Print): 
+ISSN (Online): 2673-6004
+IsoAbbr: Birds (Basel)
+NlmId: 9918453689006676
+--------------------------------------------------------
 JrId: 51927
 JournalTitle: Journal of clinical and experimental gastroenterology
 MedAbbr: J Clin Exp Gastroenterol
@@ -304374,3 +304382,11 @@ ISSN (Print): 3068-3335
 ISSN (Online): 3068-3343
 IsoAbbr: IEEE Int Conf Digit Health
 NlmId: 9919270152306676
+--------------------------------------------------------
+JrId: 55173
+JournalTitle: Sage open chronic disease
+MedAbbr: Sage Open Chronic Dis
+ISSN (Print): 
+ISSN (Online): 2978-1558
+IsoAbbr: Sage Open Chronic Dis
+NlmId: 9919270152106676
