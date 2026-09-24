@@ -304071,6 +304071,14 @@ ISSN (Online): 2974-3257
 IsoAbbr: HPB Cancer Int
 NlmId: 9919268652706676
 --------------------------------------------------------
+JrId: 55101
+JournalTitle: APL quantum
+MedAbbr: APL Quantum
+ISSN (Print): 
+ISSN (Online): 2835-0103
+IsoAbbr: APL Quantum
+NlmId: 9919268753006676
+--------------------------------------------------------
 JrId: 55102
 JournalTitle: Light. Advanced manufacturing
 MedAbbr: Light Adv Manuf
@@ -304238,6 +304246,14 @@ ISSN (Print):
 ISSN (Online): 2473-8689
 IsoAbbr: Proc Linguist Soc Am
 NlmId: 9919269342906676
+--------------------------------------------------------
+JrId: 55137
+JournalTitle: ... World Psoriasis & Psoriatic Arthritis Conference
+MedAbbr: World Psoriasis Arthritis Conf
+ISSN (Print): 
+ISSN (Online): 
+IsoAbbr: World Psoriasis Arthritis Conf
+NlmId: 9919269730106676
 --------------------------------------------------------
 JrId: 55138
 JournalTitle: Proceedings of the ... Conference on Cognitive Computational Neuroscience
