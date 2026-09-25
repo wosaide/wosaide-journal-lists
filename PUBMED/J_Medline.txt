@@ -303855,6 +303855,14 @@ ISSN (Online): 2249-9245
 IsoAbbr: Bull Pharm Res
 NlmId: 101620034
 --------------------------------------------------------
+JrId: 55057
+JournalTitle: Childhood kidney diseases
+MedAbbr: Child Kidney Dis
+ISSN (Print): 2384-0242
+ISSN (Online): 2384-0250
+IsoAbbr: Child Kidney Dis
+NlmId: 101693938
+--------------------------------------------------------
 JrId: 55058
 JournalTitle: Jornal brasileiro de doencas sexualmente transmissiveis : DST
 MedAbbr: J Bras Doencas Sex Transm
@@ -304398,6 +304406,14 @@ ISSN (Print): 3068-3335
 ISSN (Online): 3068-3343
 IsoAbbr: IEEE Int Conf Digit Health
 NlmId: 9919270152306676
+--------------------------------------------------------
+JrId: 55172
+JournalTitle: Research in heart yield and translational medicine
+MedAbbr: Res Heart Yield Transl Med
+ISSN (Print): 3115-7270
+ISSN (Online): 3092-7587
+IsoAbbr: Res Heart Yield Transl Med
+NlmId: 9919270152006676
 --------------------------------------------------------
 JrId: 55173
 JournalTitle: Sage open chronic disease
