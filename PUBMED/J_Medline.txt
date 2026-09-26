@@ -113915,7 +113915,7 @@ JrId: 26857
 JournalTitle: Annals of microbiology
 MedAbbr: Ann Microbiol
 ISSN (Print): 1590-4261
-ISSN (Online): 
+ISSN (Online): 1869-2044
 IsoAbbr: Ann Microbiol
 NlmId: 100959580
 --------------------------------------------------------
@@ -304287,6 +304287,14 @@ ISSN (Online):
 IsoAbbr: Conf Lang Model
 NlmId: 9919269730006676
 --------------------------------------------------------
+JrId: 55143
+JournalTitle: Journal of radiological science
+MedAbbr: J Radiol Sci
+ISSN (Print): 
+ISSN (Online): 
+IsoAbbr: J Radiol Sci
+NlmId: 101580553
+--------------------------------------------------------
 JrId: 55144
 JournalTitle: Proceedings of Machine Learning and Systems ...
 MedAbbr: Proc Mach Learn Syst
@@ -304422,3 +304430,59 @@ ISSN (Print):
 ISSN (Online): 2978-1558
 IsoAbbr: Sage Open Chronic Dis
 NlmId: 9919270152106676
+--------------------------------------------------------
+JrId: 55177
+JournalTitle: NPJ autoimmunity
+MedAbbr: NPJ Autoimmun
+ISSN (Print): 
+ISSN (Online): 3091-2792
+IsoAbbr: NPJ Autoimmun
+NlmId: 9919271950906676
+--------------------------------------------------------
+JrId: 55179
+JournalTitle: European radiology abdomen
+MedAbbr: Eur Radiol Abdomen
+ISSN (Print): 
+ISSN (Online): 3120-4740
+IsoAbbr: Eur Radiol Abdomen
+NlmId: 9919271951006676
+--------------------------------------------------------
+JrId: 55180
+JournalTitle: Place branding and public diplomacy
+MedAbbr: Place Brand Public Dipl
+ISSN (Print): 1751-8040
+ISSN (Online): 1751-8059
+IsoAbbr: Place Brand Public Dipl
+NlmId: 9919270543606676
+--------------------------------------------------------
+JrId: 55181
+JournalTitle: Journal of digital management
+MedAbbr: J Digit Manag
+ISSN (Print): 
+ISSN (Online): 3005-1339
+IsoAbbr: J Digit Manag
+NlmId: 9919270151906676
+--------------------------------------------------------
+JrId: 55182
+JournalTitle: Scientific reviews
+MedAbbr: Sci Rev
+ISSN (Print): 
+ISSN (Online): 3120-4953
+IsoAbbr: Sci Rev
+NlmId: 9919271951206676
+--------------------------------------------------------
+JrId: 55183
+JournalTitle: Indian geotechnical journal
+MedAbbr: Indian Geotech J
+ISSN (Print): 0046-8983
+ISSN (Online): 2277-3347
+IsoAbbr: Indian Geotech J
+NlmId: 9919270543506676
+--------------------------------------------------------
+JrId: 55184
+JournalTitle: Cell signaling, inflammation and disease
+MedAbbr: Cell Signal Inflamm Dis
+ISSN (Print): 
+ISSN (Online): 3091-3837
+IsoAbbr: Cell Signal Inflamm Dis
+NlmId: 9919270151806676
