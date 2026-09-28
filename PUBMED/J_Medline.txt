@@ -32571,7 +32571,7 @@ JrId: 4227
 JournalTitle: Indian journal of public health
 MedAbbr: Indian J Public Health
 ISSN (Print): 0019-557X
-ISSN (Online): 
+ISSN (Online): 2229-7693
 IsoAbbr: Indian J Public Health
 NlmId: 0400673
 --------------------------------------------------------
@@ -113915,7 +113915,7 @@ JrId: 26857
 JournalTitle: Annals of microbiology
 MedAbbr: Ann Microbiol
 ISSN (Print): 1590-4261
-ISSN (Online): 
+ISSN (Online): 1869-2044
 IsoAbbr: Ann Microbiol
 NlmId: 100959580
 --------------------------------------------------------
@@ -126115,7 +126115,7 @@ JrId: 28527
 JournalTitle: Cities (London, England)
 MedAbbr: Cities
 ISSN (Print): 0264-2751
-ISSN (Online): 
+ISSN (Online): 1873-6084
 IsoAbbr: Cities
 NlmId: 101085015
 --------------------------------------------------------
@@ -174899,7 +174899,7 @@ JrId: 36129
 JournalTitle: Connections (Toronto, Ont.)
 MedAbbr: Connect (Tor)
 ISSN (Print): 0226-1766
-ISSN (Online): 
+ISSN (Online): 2816-4245
 IsoAbbr: Connect (Tor)
 NlmId: 101511391
 --------------------------------------------------------
@@ -278599,14 +278599,6 @@ ISSN (Online):
 IsoAbbr: Clin Theriogenology
 NlmId: 101681552
 --------------------------------------------------------
-JrId: 51271
-JournalTitle: 2021 IEEE International Conference on Digital Health (ICDH)
-MedAbbr: 2021 IEEE Int Conf Digit Health ICDH (2021)
-ISSN (Print): 
-ISSN (Online): 
-IsoAbbr: 2021 IEEE Int Conf Digit Health ICDH (2021)
-NlmId: 9918317680306676
---------------------------------------------------------
 JrId: 51272
 JournalTitle: Proceedings of the ... International Conference on Digital Government Research. International Conference on Digital Government Research
 MedAbbr: Proc Int Conf Digit Gov Res
@@ -280952,7 +280944,7 @@ IsoAbbr: Pap Appl Geogr
 NlmId: 9918400286006676
 --------------------------------------------------------
 JrId: 51614
-JournalTitle: Nature reviews psychology
+JournalTitle: Nature reviews. Psychology
 MedAbbr: Nat Rev Psychol
 ISSN (Print): 
 ISSN (Online): 2731-0574
@@ -283054,6 +283046,14 @@ ISSN (Print):
 ISSN (Online): 1933-9747
 IsoAbbr: Fire Ecol
 NlmId: 9918452988706676
+--------------------------------------------------------
+JrId: 51926
+JournalTitle: Birds (Basel, Switzerland)
+MedAbbr: Birds (Basel)
+ISSN (Print): 
+ISSN (Online): 2673-6004
+IsoAbbr: Birds (Basel)
+NlmId: 9918453689006676
 --------------------------------------------------------
 JrId: 51927
 JournalTitle: Journal of clinical and experimental gastroenterology
@@ -288343,6 +288343,14 @@ ISSN (Online): 2730-647X
 IsoAbbr: Discov Water
 NlmId: 9918662887306676
 --------------------------------------------------------
+JrId: 52772
+JournalTitle: Frontiers in amphibian and reptile science
+MedAbbr: Front Amphib Reptile Sci
+ISSN (Print): 
+ISSN (Online): 2813-6780
+IsoAbbr: Front Amphib Reptile Sci
+NlmId: 9918663389006676
+--------------------------------------------------------
 JrId: 52774
 JournalTitle: Eurasian soil science
 MedAbbr: Eurasia Soil Sci
@@ -289398,14 +289406,6 @@ ISSN (Print):
 ISSN (Online): 
 IsoAbbr: ARIC 2022 (2022)
 NlmId: 9918697475906676
---------------------------------------------------------
-JrId: 52926
-JournalTitle: 2022 IEEE International Conference on Digital Health (IEEE ICDH 2022) : proceedings : hybrid conference, Barcelona, Spain, 11-15 July 2022. International Conference on Digital Health (2022 : Barcelona, Spain; Online)
-MedAbbr: 2022 IEEE Int Conf Digit Health IEEE IDCH 2022 (2022)
-ISSN (Print): 
-ISSN (Online): 
-IsoAbbr: 2022 IEEE Int Conf Digit Health IEEE IDCH 2022 (2022)
-NlmId: 9918697476106676
 --------------------------------------------------------
 JrId: 52927
 JournalTitle: ICMI'22 Companion : companion publication of the 2022 International Conference on Multimodal Interaction : November 7-11, 2022, Bangalore, India. ICMI (Conference) (2022 : Bangalore, India)
@@ -298447,14 +298447,6 @@ ISSN (Online):
 IsoAbbr: Plan Chang
 NlmId: 9919033199706676
 --------------------------------------------------------
-JrId: 54250
-JournalTitle: 2023 International Conference on Next Generation Electronics (NEleX). International Conference on Next Generation Electronics (2023 : Vellore, India)
-MedAbbr: 2023 Int Conf Next Gener Electron NEleX (2023)
-ISSN (Print): 
-ISSN (Online): 
-IsoAbbr: 2023 Int Conf Next Gener Electron NEleX (2023)
-NlmId: 9919033200006676
---------------------------------------------------------
 JrId: 54251
 JournalTitle: Neurology open access
 MedAbbr: Neurol Open Access
@@ -299808,7 +299800,7 @@ IsoAbbr: AMS Rev (N Y)
 NlmId: 9919130032106676
 --------------------------------------------------------
 JrId: 54444
-JournalTitle: Blood. Red cells & iron
+JournalTitle: Blood red cells & iron
 MedAbbr: Blood Red Cells Iron
 ISSN (Print): 
 ISSN (Online): 3050-5984
@@ -303551,6 +303543,14 @@ ISSN (Online): 2348-1552
 IsoAbbr: Int J Educ
 NlmId: 9919263614406676
 --------------------------------------------------------
+JrId: 55009
+JournalTitle: SafeConfig'15 : proceedings of the 2015 Workshop on Automated Decision Making for Active Cyber Defense : October 12, 2015, Denver, Colorado, USA. Workshop on Automated Decision Making for Active Cyber Defense (2015 : Denver, Colo.)
+MedAbbr: SafeConfig 15 (2015)
+ISSN (Print): 
+ISSN (Online): 
+IsoAbbr: SafeConfig 15 (2015)
+NlmId: 9919264115706676
+--------------------------------------------------------
 JrId: 55010
 JournalTitle: Frontiers in sustainability
 MedAbbr: Front Sustain (Lausanne)
@@ -303703,6 +303703,14 @@ ISSN (Online): 2674-0583
 IsoAbbr: SynBio
 NlmId: 9919264113906676
 --------------------------------------------------------
+JrId: 55034
+JournalTitle: International journal of addiction nursing
+MedAbbr: Int J Addctn Nurs
+ISSN (Print): 3068-9589
+ISSN (Online): 3068-9597
+IsoAbbr: Int J Addctn Nurs
+NlmId: 9919264113606676
+--------------------------------------------------------
 JrId: 55035
 JournalTitle: Proceedings of the ... European conference on games based learning. European Conference on Games Based Learning, author
 MedAbbr: Proc Eur Conf Games Based Learn
@@ -303847,6 +303855,14 @@ ISSN (Online): 2249-9245
 IsoAbbr: Bull Pharm Res
 NlmId: 101620034
 --------------------------------------------------------
+JrId: 55057
+JournalTitle: Childhood kidney diseases
+MedAbbr: Child Kidney Dis
+ISSN (Print): 2384-0242
+ISSN (Online): 2384-0250
+IsoAbbr: Child Kidney Dis
+NlmId: 101693938
+--------------------------------------------------------
 JrId: 55058
 JournalTitle: Jornal brasileiro de doencas sexualmente transmissiveis : DST
 MedAbbr: J Bras Doencas Sex Transm
@@ -303862,6 +303878,14 @@ ISSN (Print): 2214-9929
 ISSN (Online): 2214-9937
 IsoAbbr: Sustain Mater Technol
 NlmId: 9919266250906676
+--------------------------------------------------------
+JrId: 55060
+JournalTitle: Nutritional psychiatry
+MedAbbr: Nutr Psychiatry
+ISSN (Print): 
+ISSN (Online): 3051-1569
+IsoAbbr: Nutr Psychiatry
+NlmId: 9919266251006676
 --------------------------------------------------------
 JrId: 55065
 JournalTitle: International journal of pavement engineering
@@ -303894,6 +303918,14 @@ ISSN (Print):
 ISSN (Online): 3005-1185
 IsoAbbr: Discov Immun
 NlmId: 9919266553306676
+--------------------------------------------------------
+JrId: 55070
+JournalTitle: Clinical case reports international
+MedAbbr: Clin Case Rep Int
+ISSN (Print): 
+ISSN (Online): 2638-4558
+IsoAbbr: Clin Case Rep Int
+NlmId: 9919266551306676
 --------------------------------------------------------
 JrId: 55077
 JournalTitle: Communications AI & computing
@@ -303951,6 +303983,14 @@ ISSN (Online): 1878-5204
 IsoAbbr: React Kinet Mech Catal
 NlmId: 9919267552606676
 --------------------------------------------------------
+JrId: 55087
+JournalTitle: Journal of pelvic, obstetric and gynaecological physiotherapy
+MedAbbr: J Pelvic Obstet Gynaecol Physiother
+ISSN (Print): 2057-598X
+ISSN (Online): 2977-1854
+IsoAbbr: J Pelvic Obstet Gynaecol Physiother
+NlmId: 101661629
+--------------------------------------------------------
 JrId: 55089
 JournalTitle: Journal of geriatric neurology
 MedAbbr: J Geriatr Neurol
@@ -303975,6 +304015,14 @@ ISSN (Online): 2694-4030
 IsoAbbr: INFORMS J Data Sci
 NlmId: 9919268552906676
 --------------------------------------------------------
+JrId: 55092
+JournalTitle: Social robotics : 16th International Conference, ICSR + AI 2024, Odense, Denmark, October 23-26, 2024 : proceedings. International Conference on Social Robotics (16th : 2024 : Odense, Denmark)
+MedAbbr: Soc Robot
+ISSN (Print): 
+ISSN (Online): 
+IsoAbbr: Soc Robot
+NlmId: 9919268553106676
+--------------------------------------------------------
 JrId: 55093
 JournalTitle: Journal on advances in signal processing
 MedAbbr: J Adv Signal Process
@@ -303990,6 +304038,14 @@ ISSN (Print): 2578-8086
 ISSN (Online): 2578-8094
 IsoAbbr: J Latinx Psychol
 NlmId: 9919265452406676
+--------------------------------------------------------
+JrId: 55095
+JournalTitle: Personnel review
+MedAbbr: Pers Rev
+ISSN (Print): 0048-3486
+ISSN (Online): 1758-6933
+IsoAbbr: Pers Rev
+NlmId: 9919268752806676
 --------------------------------------------------------
 JrId: 55096
 JournalTitle: Animal advances
@@ -304023,6 +304079,22 @@ ISSN (Online): 2974-3257
 IsoAbbr: HPB Cancer Int
 NlmId: 9919268652706676
 --------------------------------------------------------
+JrId: 55101
+JournalTitle: APL quantum
+MedAbbr: APL Quantum
+ISSN (Print): 
+ISSN (Online): 2835-0103
+IsoAbbr: APL Quantum
+NlmId: 9919268753006676
+--------------------------------------------------------
+JrId: 55102
+JournalTitle: Light. Advanced manufacturing
+MedAbbr: Light Adv Manuf
+ISSN (Print): 2689-9620
+ISSN (Online): 2831-4093
+IsoAbbr: Light Adv Manuf
+NlmId: 9919268753106676
+--------------------------------------------------------
 JrId: 55103
 JournalTitle: 2026 International Biennial Conference on Advances in Artificial Intelligence and Data Science (IBAAIDS)
 MedAbbr: 2026 Int Bienn Conf Adv Artif Intell Data Sci (IBAAIDS) (2026)
@@ -304047,6 +304119,14 @@ ISSN (Online): 2325-4289
 IsoAbbr: IEEE Conf Comput Intell Games
 NlmId: 9919269250706676
 --------------------------------------------------------
+JrId: 55107
+JournalTitle: 2025 3rd International Conference on Artificial Intelligence, Blockchain, and Internet of Things (AIBThings)
+MedAbbr: 2025 3rd Int Conf Artif Intell Blockchain Internet Things (Aibthings) (2025)
+ISSN (Print): 
+ISSN (Online): 
+IsoAbbr: 2025 3rd Int Conf Artif Intell Blockchain Internet Things (Aibthings) (2025)
+NlmId: 9919269250206676
+--------------------------------------------------------
 JrId: 55110
 JournalTitle: Results in surfaces and interfaces
 MedAbbr: Results Surf Interfaces
@@ -304063,6 +304143,14 @@ ISSN (Online): 3059-3298
 IsoAbbr: Npj Entomol
 NlmId: 9919268940206676
 --------------------------------------------------------
+JrId: 55114
+JournalTitle: Public library quarterly (New York, N.Y.)
+MedAbbr: Public Libr Q (N Y)
+ISSN (Print): 0161-6846
+ISSN (Online): 
+IsoAbbr: Public Libr Q (N Y)
+NlmId: 101322399
+--------------------------------------------------------
 JrId: 55117
 JournalTitle: Digest of technical papers. Symposium on VLSI Technology
 MedAbbr: Dig Tech Pap (N Y)
@@ -304070,6 +304158,14 @@ ISSN (Print): 0743-1562
 ISSN (Online): 2158-9682
 IsoAbbr: Dig Tech Pap (N Y)
 NlmId: 9919269352806676
+--------------------------------------------------------
+JrId: 55119
+JournalTitle: Journal of student research
+MedAbbr: J Stud Res (Houst)
+ISSN (Print): 
+ISSN (Online): 2167-1907
+IsoAbbr: J Stud Res (Houst)
+NlmId: 9919269453006676
 --------------------------------------------------------
 JrId: 55121
 JournalTitle: ACM transactions on evolutionary learning and optimization
@@ -304079,6 +304175,14 @@ ISSN (Online): 2688-3007
 IsoAbbr: ACM Trans Evol Learn Optim
 NlmId: 9919269350706676
 --------------------------------------------------------
+JrId: 55122
+JournalTitle: Journal of colon and rectal cancer
+MedAbbr: J Colon Rectal Cancer
+ISSN (Print): 
+ISSN (Online): 2471-7061
+IsoAbbr: J Colon Rectal Cancer
+NlmId: 9919269350606676
+--------------------------------------------------------
 JrId: 55123
 JournalTitle: Engineering science and technology
 MedAbbr: Eng Sci Technol
@@ -304086,3 +304190,299 @@ ISSN (Print): 1308-2051
 ISSN (Online): 2215-0986
 IsoAbbr: Eng Sci Technol
 NlmId: 9919269452706676
+--------------------------------------------------------
+JrId: 55124
+JournalTitle: EconPol forum
+MedAbbr: EconPol Forum
+ISSN (Print): 2752-1176
+ISSN (Online): 2752-1184
+IsoAbbr: EconPol Forum
+NlmId: 9919269553406676
+--------------------------------------------------------
+JrId: 55125
+JournalTitle: Karst groundwater contamination and public health : beyond case studies. Conference "Karst Groundwater Contamination and Public Health" (2016 : San Juan, P.R.)
+MedAbbr: Karst Groundw Contam Public Health (2016)
+ISSN (Print): 
+ISSN (Online): 
+IsoAbbr: Karst Groundw Contam Public Health (2016)
+NlmId: 9919269452806676
+--------------------------------------------------------
+JrId: 55126
+JournalTitle: Respiratory research & clinical practice
+MedAbbr: Respir Res Clin Pract
+ISSN (Print): 
+ISSN (Online): 3086-3910
+IsoAbbr: Respir Res Clin Pract
+NlmId: 9919269228506676
+--------------------------------------------------------
+JrId: 55127
+JournalTitle: BMJ connections. Surgery
+MedAbbr: BMJ Connect Surg
+ISSN (Print): 
+ISSN (Online): 2978-1809
+IsoAbbr: BMJ Connect Surg
+NlmId: 9919269749706676
+--------------------------------------------------------
+JrId: 55131
+JournalTitle: Archives of breast cancer
+MedAbbr: Arch Breast Cancer
+ISSN (Print): 2383-0425
+ISSN (Online): 2383-0433
+IsoAbbr: Arch Breast Cancer
+NlmId: 101681811
+--------------------------------------------------------
+JrId: 55133
+JournalTitle: Journal of engineering and applied science
+MedAbbr: J Eng Appl Sci
+ISSN (Print): 1110-1903
+ISSN (Online): 2536-9512
+IsoAbbr: J Eng Appl Sci
+NlmId: 9919269343006676
+--------------------------------------------------------
+JrId: 55134
+JournalTitle: Discover bacteria
+MedAbbr: Discov Bact
+ISSN (Print): 
+ISSN (Online): 3004-9768
+IsoAbbr: Discov Bact
+NlmId: 9919269343106676
+--------------------------------------------------------
+JrId: 55136
+JournalTitle: Proceedings of the Linguistic Society of America. Linguistic Society of America. Annual Meeting
+MedAbbr: Proc Linguist Soc Am
+ISSN (Print): 
+ISSN (Online): 2473-8689
+IsoAbbr: Proc Linguist Soc Am
+NlmId: 9919269342906676
+--------------------------------------------------------
+JrId: 55137
+JournalTitle: ... World Psoriasis & Psoriatic Arthritis Conference
+MedAbbr: World Psoriasis Arthritis Conf
+ISSN (Print): 
+ISSN (Online): 
+IsoAbbr: World Psoriasis Arthritis Conf
+NlmId: 9919269730106676
+--------------------------------------------------------
+JrId: 55138
+JournalTitle: Proceedings of the ... Conference on Cognitive Computational Neuroscience
+MedAbbr: Proc Conf Cogn Comput Neurosci
+ISSN (Print): 
+ISSN (Online): 
+IsoAbbr: Proc Conf Cogn Comput Neurosci
+NlmId: 9919269729506676
+--------------------------------------------------------
+JrId: 55141
+JournalTitle: Proceedings of the ... Workshop on Patient-Oriented Language Processing
+MedAbbr: Proc Workshop Patient Oriented Lang Process
+ISSN (Print): 
+ISSN (Online): 
+IsoAbbr: Proc Workshop Patient Oriented Lang Process
+NlmId: 9919269729806676
+--------------------------------------------------------
+JrId: 55142
+JournalTitle: ... Conference on Language Modeling
+MedAbbr: Conf Lang Model
+ISSN (Print): 
+ISSN (Online): 
+IsoAbbr: Conf Lang Model
+NlmId: 9919269730006676
+--------------------------------------------------------
+JrId: 55143
+JournalTitle: Journal of radiological science
+MedAbbr: J Radiol Sci
+ISSN (Print): 
+ISSN (Online): 
+IsoAbbr: J Radiol Sci
+NlmId: 101580553
+--------------------------------------------------------
+JrId: 55144
+JournalTitle: Proceedings of Machine Learning and Systems ...
+MedAbbr: Proc Mach Learn Syst
+ISSN (Print): 
+ISSN (Online): 
+IsoAbbr: Proc Mach Learn Syst
+NlmId: 9919269729406676
+--------------------------------------------------------
+JrId: 55145
+JournalTitle: Imaging and Applied Optics Congress 2022
+MedAbbr: Imaging Appl Opt Congr 2022 (2022)
+ISSN (Print): 
+ISSN (Online): 
+IsoAbbr: Imaging Appl Opt Congr 2022 (2022)
+NlmId: 9919269342806676
+--------------------------------------------------------
+JrId: 55147
+JournalTitle: The 6th International Conference on Wireless, Intelligent and Distributed Environment for Communication : WIDECOM 2023 : International Conference on Wireless, Intelligent and Distributed Environment for Communication, St. Catharines, ON...
+MedAbbr: 6th Int Conf Wirel Intell Distrib Environ Commun (2023)
+ISSN (Print): 
+ISSN (Online): 
+IsoAbbr: 6th Int Conf Wirel Intell Distrib Environ Commun (2023)
+NlmId: 9919269342706676
+--------------------------------------------------------
+JrId: 55149
+JournalTitle: Psychotherapie (Heidelberg, Germany)
+MedAbbr: Psychotherapie (Heidelb)
+ISSN (Print): 2731-7161
+ISSN (Online): 2731-717X
+IsoAbbr: Psychotherapie (Heidelb)
+NlmId: 9918383865606676
+--------------------------------------------------------
+JrId: 55151
+JournalTitle: Chem circularity
+MedAbbr: Chem Circ
+ISSN (Print): 
+ISSN (Online): 3051-2948
+IsoAbbr: Chem Circ
+NlmId: 9919269444706676
+--------------------------------------------------------
+JrId: 55152
+JournalTitle: International journal of educational reform
+MedAbbr: Int J Educ Reform
+ISSN (Print): 1056-7879
+ISSN (Online): 2631-9675
+IsoAbbr: Int J Educ Reform
+NlmId: 9919269444806676
+--------------------------------------------------------
+JrId: 55154
+JournalTitle: Npj exercise medicine and health
+MedAbbr: Npj Exerc Med Health
+ISSN (Print): 
+ISSN (Online): 3059-331X
+IsoAbbr: Npj Exerc Med Health
+NlmId: 9919269534006676
+--------------------------------------------------------
+JrId: 55155
+JournalTitle: Npj fungal science
+MedAbbr: Npj Fungal Sci
+ISSN (Print): 
+ISSN (Online): 3091-3896
+IsoAbbr: Npj Fungal Sci
+NlmId: 9919269533706676
+--------------------------------------------------------
+JrId: 55159
+JournalTitle: Ugdymas. Kuno kultura. Sportas
+MedAbbr: Ugdym Kuno Kult Sport
+ISSN (Print): 
+ISSN (Online): 1392-5644
+IsoAbbr: Ugdym Kuno Kult Sport
+NlmId: 9919270153106676
+--------------------------------------------------------
+JrId: 55160
+JournalTitle: Journal of social work and welfare policy
+MedAbbr: J Soc Work Welf Policy
+ISSN (Print): 
+ISSN (Online): 3049-0243
+IsoAbbr: J Soc Work Welf Policy
+NlmId: 9919270352506676
+--------------------------------------------------------
+JrId: 55161
+JournalTitle: The 7th International Conference on Wireless, Intelligent and Distributed Environment for Communication : WIDECOM 2024. International Conference on Wireless, Intelligent and Distributed Environment for Communication (7th : 2024 : Keene,...
+MedAbbr: 7th Int Conf Wirel Intell Distrib Environ Commun (2024)
+ISSN (Print): 
+ISSN (Online): 
+IsoAbbr: 7th Int Conf Wirel Intell Distrib Environ Commun (2024)
+NlmId: 9919270153006676
+--------------------------------------------------------
+JrId: 55166
+JournalTitle: Journal of financial services marketing
+MedAbbr: J Financ Serv Mark
+ISSN (Print): 1363-0539
+ISSN (Online): 1479-1846
+IsoAbbr: J Financ Serv Mark
+NlmId: 9919270152606676
+--------------------------------------------------------
+JrId: 55168
+JournalTitle: Applied surface science advances
+MedAbbr: Appl Surf Sci Adv
+ISSN (Print): 
+ISSN (Online): 2666-5239
+IsoAbbr: Appl Surf Sci Adv
+NlmId: 9919270543906676
+--------------------------------------------------------
+JrId: 55170
+JournalTitle: Discover neuroscience
+MedAbbr: Discov Neurosci
+ISSN (Print): 
+ISSN (Online): 3005-1827
+IsoAbbr: Discov Neurosci
+NlmId: 9918989695906676
+--------------------------------------------------------
+JrId: 55171
+JournalTitle: IEEE International Conference on Digital Health. IEEE International Conference on Digital Health
+MedAbbr: IEEE Int Conf Digit Health
+ISSN (Print): 3068-3335
+ISSN (Online): 3068-3343
+IsoAbbr: IEEE Int Conf Digit Health
+NlmId: 9919270152306676
+--------------------------------------------------------
+JrId: 55172
+JournalTitle: Research in heart yield and translational medicine
+MedAbbr: Res Heart Yield Transl Med
+ISSN (Print): 3115-7270
+ISSN (Online): 3092-7587
+IsoAbbr: Res Heart Yield Transl Med
+NlmId: 9919270152006676
+--------------------------------------------------------
+JrId: 55173
+JournalTitle: Sage open chronic disease
+MedAbbr: Sage Open Chronic Dis
+ISSN (Print): 
+ISSN (Online): 2978-1558
+IsoAbbr: Sage Open Chronic Dis
+NlmId: 9919270152106676
+--------------------------------------------------------
+JrId: 55177
+JournalTitle: NPJ autoimmunity
+MedAbbr: NPJ Autoimmun
+ISSN (Print): 
+ISSN (Online): 3091-2792
+IsoAbbr: NPJ Autoimmun
+NlmId: 9919271950906676
+--------------------------------------------------------
+JrId: 55179
+JournalTitle: European radiology abdomen
+MedAbbr: Eur Radiol Abdomen
+ISSN (Print): 
+ISSN (Online): 3120-4740
+IsoAbbr: Eur Radiol Abdomen
+NlmId: 9919271951006676
+--------------------------------------------------------
+JrId: 55180
+JournalTitle: Place branding and public diplomacy
+MedAbbr: Place Brand Public Dipl
+ISSN (Print): 1751-8040
+ISSN (Online): 1751-8059
+IsoAbbr: Place Brand Public Dipl
+NlmId: 9919270543606676
+--------------------------------------------------------
+JrId: 55181
+JournalTitle: Journal of digital management
+MedAbbr: J Digit Manag
+ISSN (Print): 
+ISSN (Online): 3005-1339
+IsoAbbr: J Digit Manag
+NlmId: 9919270151906676
+--------------------------------------------------------
+JrId: 55182
+JournalTitle: Scientific reviews
+MedAbbr: Sci Rev
+ISSN (Print): 
+ISSN (Online): 3120-4953
+IsoAbbr: Sci Rev
+NlmId: 9919271951206676
+--------------------------------------------------------
+JrId: 55183
+JournalTitle: Indian geotechnical journal
+MedAbbr: Indian Geotech J
+ISSN (Print): 0046-8983
+ISSN (Online): 2277-3347
+IsoAbbr: Indian Geotech J
+NlmId: 9919270543506676
+--------------------------------------------------------
+JrId: 55184
+JournalTitle: Cell signaling, inflammation and disease
+MedAbbr: Cell Signal Inflamm Dis
+ISSN (Print): 
+ISSN (Online): 3091-3837
+IsoAbbr: Cell Signal Inflamm Dis
+NlmId: 9919270151806676
