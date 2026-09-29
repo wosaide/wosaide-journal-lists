@@ -303503,6 +303503,14 @@ ISSN (Online): 2994-175X
 IsoAbbr: Organ Med
 NlmId: 9919262412906676
 --------------------------------------------------------
+JrId: 55002
+JournalTitle: Journal of translational research
+MedAbbr: J Transl Res
+ISSN (Print): 
+ISSN (Online): 2994-7448
+IsoAbbr: J Transl Res
+NlmId: 9919262414606676
+--------------------------------------------------------
 JrId: 55003
 JournalTitle: Journal of plastination
 MedAbbr: J Plast
