@@ -294559,14 +294559,6 @@ ISSN (Online): 3004-8311
 IsoAbbr: Disc Cities
 NlmId: 9918900816706676
 --------------------------------------------------------
-JrId: 53687
-JournalTitle: 2023 IEEE International Symposium on Antennas and Propagation and USNC-URSI Radio Science Meeting AP-S/URSI 2023 : proceedings : 23-28 July, 2023, Portland, Oregon, USA. USNC-URSI Radio Science Meeting (2023 Portland, Or.)
-MedAbbr: 2023 IEEE Int Symp Antennas Propag USNC URSI Radio Sci Meet AP S URSI 2023 (2023)
-ISSN (Print): 
-ISSN (Online): 
-IsoAbbr: 2023 IEEE Int Symp Antennas Propag USNC URSI Radio Sci Meet AP S URSI 2023 (2023)
-NlmId: 9918900937006676
---------------------------------------------------------
 JrId: 53688
 JournalTitle: Trends in photochemistry & photobiology
 MedAbbr: Trends Photochem Photobiol
@@ -304318,6 +304310,14 @@ ISSN (Print):
 ISSN (Online): 
 IsoAbbr: Imaging Appl Opt Congr 2022 (2022)
 NlmId: 9919269342806676
+--------------------------------------------------------
+JrId: 55146
+JournalTitle: The journal of LGBTQ+ mental health
+MedAbbr: J LGBTQ+ Ment Health
+ISSN (Print): 3067-8935
+ISSN (Online): 3067-8943
+IsoAbbr: J LGBTQ+ Ment Health
+NlmId: 9919079345106676
 --------------------------------------------------------
 JrId: 55147
 JournalTitle: The 6th International Conference on Wireless, Intelligent and Distributed Environment for Communication : WIDECOM 2023 : International Conference on Wireless, Intelligent and Distributed Environment for Communication, St. Catharines, ON...
