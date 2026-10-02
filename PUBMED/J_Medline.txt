@@ -304367,6 +304367,14 @@ ISSN (Online): 3091-3896
 IsoAbbr: Npj Fungal Sci
 NlmId: 9919269533706676
 --------------------------------------------------------
+JrId: 55156
+JournalTitle: HSOA journal of alternative, complementary & integrative medicine
+MedAbbr: HSOA J Altern Complement Integr Med
+ISSN (Print): 
+ISSN (Online): 2470-7562
+IsoAbbr: HSOA J Altern Complement Integr Med
+NlmId: 101739460
+--------------------------------------------------------
 JrId: 55159
 JournalTitle: Ugdymas. Kuno kultura. Sportas
 MedAbbr: Ugdym Kuno Kult Sport
@@ -304447,6 +304455,14 @@ ISSN (Online): 3091-2792
 IsoAbbr: NPJ Autoimmun
 NlmId: 9919271950906676
 --------------------------------------------------------
+JrId: 55178
+JournalTitle: Journal of young women's breast cancer and health
+MedAbbr: J Young Womens Breast Cancer Health
+ISSN (Print): 
+ISSN (Online): 3050-7162
+IsoAbbr: J Young Womens Breast Cancer Health
+NlmId: 9919270543306676
+--------------------------------------------------------
 JrId: 55179
 JournalTitle: European radiology abdomen
 MedAbbr: Eur Radiol Abdomen
@@ -304494,3 +304510,19 @@ ISSN (Print):
 ISSN (Online): 3091-3837
 IsoAbbr: Cell Signal Inflamm Dis
 NlmId: 9919270151806676
+--------------------------------------------------------
+JrId: 55191
+JournalTitle: EANM innovation
+MedAbbr: EANM Innov
+ISSN (Print): 
+ISSN (Online): 3051-2913
+IsoAbbr: EANM Innov
+NlmId: 9919270543106676
+--------------------------------------------------------
+JrId: 55192
+JournalTitle: Machine learning : engineering
+MedAbbr: Mach Learn Eng
+ISSN (Print): 
+ISSN (Online): 3049-4761
+IsoAbbr: Mach Learn Eng
+NlmId: 9919272346006676
