@@ -275313,10 +275313,10 @@ NlmId: 9918227257706676
 --------------------------------------------------------
 JrId: 50786
 JournalTitle: Annals of urology & nephrology
-MedAbbr: Ann Urol Nehrol
+MedAbbr: Ann Urol Nephrol
 ISSN (Print): 
 ISSN (Online): 2692-532X
-IsoAbbr: Ann Urol Nehrol
+IsoAbbr: Ann Urol Nephrol
 NlmId: 9918227352006676
 --------------------------------------------------------
 JrId: 50787
@@ -276249,10 +276249,10 @@ NlmId: 9918250410106676
 --------------------------------------------------------
 JrId: 50927
 JournalTitle: Merrill series on the research mission of public universities. Merrill Research Retreat
-MedAbbr: Merrrill Ser Res Mission Public Univ
+MedAbbr: Merrill Ser Res Mission Public Univ
 ISSN (Print): 2641-9084
 ISSN (Online): 2641-9092
-IsoAbbr: Merrrill Ser Res Mission Public Univ
+IsoAbbr: Merrill Ser Res Mission Public Univ
 NlmId: 9918250413106676
 --------------------------------------------------------
 JrId: 50928
@@ -278595,7 +278595,7 @@ JrId: 51270
 JournalTitle: Clinical theriogenology
 MedAbbr: Clin Theriogenology
 ISSN (Print): 2154-3968
-ISSN (Online): 
+ISSN (Online): 3144-2307
 IsoAbbr: Clin Theriogenology
 NlmId: 101681552
 --------------------------------------------------------
@@ -297737,10 +297737,10 @@ NlmId: 9919011795306676
 --------------------------------------------------------
 JrId: 54146
 JournalTitle: From animals to animats : proceedings of the ... International Conference on Simulation of Adaptive Behavior. International Conference on Simulation of Adaptive Behavior
-MedAbbr: From Anim Animats
+MedAbbr: Anim Animats
 ISSN (Print): 
 ISSN (Online): 
-IsoAbbr: From Anim Animats
+IsoAbbr: Anim Animats
 NlmId: 9919012295706676
 --------------------------------------------------------
 JrId: 54147
@@ -304510,6 +304510,14 @@ ISSN (Print):
 ISSN (Online): 3091-3837
 IsoAbbr: Cell Signal Inflamm Dis
 NlmId: 9919270151806676
+--------------------------------------------------------
+JrId: 55187
+JournalTitle: Revista costarricense de psicologia : organo oficial del Colegio Profesional de Psicologos de Costa Rica
+MedAbbr: Rev Costarric Psicol
+ISSN (Print): 0257-1439
+ISSN (Online): 1659-2913
+IsoAbbr: Rev Costarric Psicol
+NlmId: 101686085
 --------------------------------------------------------
 JrId: 55191
 JournalTitle: EANM innovation
