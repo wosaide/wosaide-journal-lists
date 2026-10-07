@@ -303991,6 +303991,14 @@ ISSN (Online): 2977-1854
 IsoAbbr: J Pelvic Obstet Gynaecol Physiother
 NlmId: 101661629
 --------------------------------------------------------
+JrId: 55088
+JournalTitle: PAMJ clinical medicine
+MedAbbr: PAMJ Clin Med
+ISSN (Print): 
+ISSN (Online): 2707-2797
+IsoAbbr: PAMJ Clin Med
+NlmId: 101769322
+--------------------------------------------------------
 JrId: 55089
 JournalTitle: Journal of geriatric neurology
 MedAbbr: J Geriatr Neurol
@@ -304511,6 +304519,14 @@ ISSN (Online): 3091-3837
 IsoAbbr: Cell Signal Inflamm Dis
 NlmId: 9919270151806676
 --------------------------------------------------------
+JrId: 55185
+JournalTitle: ... Linguistic Annotation Workshop : proceedings of a workshop. Linguistic Annotation Workshop
+MedAbbr: Linguist Annot Workshop
+ISSN (Print): 
+ISSN (Online): 
+IsoAbbr: Linguist Annot Workshop
+NlmId: 9919271947906676
+--------------------------------------------------------
 JrId: 55187
 JournalTitle: Revista costarricense de psicologia : organo oficial del Colegio Profesional de Psicologos de Costa Rica
 MedAbbr: Rev Costarric Psicol
@@ -304534,3 +304550,35 @@ ISSN (Print):
 ISSN (Online): 3049-4761
 IsoAbbr: Mach Learn Eng
 NlmId: 9919272346006676
+--------------------------------------------------------
+JrId: 55200
+JournalTitle: ISME host microbe
+MedAbbr: ISME Host Microbe
+ISSN (Print): 
+ISSN (Online): 2978-8285
+IsoAbbr: ISME Host Microbe
+NlmId: 9919273248306676
+--------------------------------------------------------
+JrId: 55201
+JournalTitle: Thesis eleven
+MedAbbr: Thesis Elev
+ISSN (Print): 0725-5136
+ISSN (Online): 1461-7455
+IsoAbbr: Thesis Elev
+NlmId: 9919273248406676
+--------------------------------------------------------
+JrId: 55202
+JournalTitle: Journal of wellbeing economics
+MedAbbr: J Wellbeing Econ
+ISSN (Print): 2978-2244
+ISSN (Online): 2978-2252
+IsoAbbr: J Wellbeing Econ
+NlmId: 9919273344006676
+--------------------------------------------------------
+JrId: 55205
+JournalTitle: The Lancet medical imaging & theranostics
+MedAbbr: Lancet Med Imaging Theranostics
+ISSN (Print): 
+ISSN (Online): 3117-4523
+IsoAbbr: Lancet Med Imaging Theranostics
+NlmId: 9919273451006676
