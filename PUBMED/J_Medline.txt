@@ -48016,7 +48016,7 @@ IsoAbbr: Riv Odontoiatr Amici Brugg
 NlmId: 8502436
 --------------------------------------------------------
 JrId: 6224
-JournalTitle: Odontologia bonaerense
+JournalTitle: Odontologia bonaerense.
 MedAbbr: Ondontol Bonaer
 ISSN (Print): 0326-8454
 ISSN (Online): 
@@ -304126,6 +304126,14 @@ ISSN (Print): 2325-4270
 ISSN (Online): 2325-4289
 IsoAbbr: IEEE Conf Comput Intell Games
 NlmId: 9919269250706676
+--------------------------------------------------------
+JrId: 55106
+JournalTitle: Artificial intelligence in education : 27th international conference, AIED 2026, Seoul, South Korea, June 27-July 3, 2026, proceedings. Part VI. International Conference on Artificial Intelligence in Education (27th : 2026 : Seoul, Kore...
+MedAbbr: Artif Intell Educ
+ISSN (Print): 
+ISSN (Online): 
+IsoAbbr: Artif Intell Educ
+NlmId: 9919269152906676
 --------------------------------------------------------
 JrId: 55107
 JournalTitle: 2025 3rd International Conference on Artificial Intelligence, Blockchain, and Internet of Things (AIBThings)
