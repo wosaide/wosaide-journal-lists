@@ -304367,6 +304367,14 @@ ISSN (Online): 2631-9675
 IsoAbbr: Int J Educ Reform
 NlmId: 9919269444806676
 --------------------------------------------------------
+JrId: 55153
+JournalTitle: Geriatrics, gerontology and aging
+MedAbbr: Geriatr Gerontol Aging
+ISSN (Print): 2447-2115
+ISSN (Online): 2447-2123
+IsoAbbr: Geriatr Gerontol Aging
+NlmId: 9918977657206676
+--------------------------------------------------------
 JrId: 55154
 JournalTitle: Npj exercise medicine and health
 MedAbbr: Npj Exerc Med Health
