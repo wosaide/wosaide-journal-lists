@@ -278594,7 +278594,7 @@ NlmId: 9918300889006676
 JrId: 51270
 JournalTitle: Clinical theriogenology
 MedAbbr: Clin Theriogenology
-ISSN (Print): 2154-3968
+ISSN (Print): 
 ISSN (Online): 3144-2307
 IsoAbbr: Clin Theriogenology
 NlmId: 101681552
@@ -294448,7 +294448,7 @@ IsoAbbr: Chin Educ Soc
 NlmId: 9918900837206676
 --------------------------------------------------------
 JrId: 53670
-JournalTitle: Npj biosensing
+JournalTitle: npj biosensing
 MedAbbr: NPJ Biosens
 ISSN (Print): 
 ISSN (Online): 3004-8656
@@ -304423,6 +304423,14 @@ ISSN (Online):
 IsoAbbr: 7th Int Conf Wirel Intell Distrib Environ Commun (2024)
 NlmId: 9919270153006676
 --------------------------------------------------------
+JrId: 55164
+JournalTitle: The coaching psychologist
+MedAbbr: Coach Psychol
+ISSN (Print): 1748-1104
+ISSN (Online): 2396-9628
+IsoAbbr: Coach Psychol
+NlmId: 101299774
+--------------------------------------------------------
 JrId: 55166
 JournalTitle: Journal of financial services marketing
 MedAbbr: J Financ Serv Mark
@@ -304598,3 +304606,11 @@ ISSN (Print):
 ISSN (Online): 3117-4523
 IsoAbbr: Lancet Med Imaging Theranostics
 NlmId: 9919273451006676
+--------------------------------------------------------
+JrId: 55208
+JournalTitle: Npj structural biology
+MedAbbr: Npj Struct Biol
+ISSN (Print): 
+ISSN (Online): 3091-3888
+IsoAbbr: Npj Struct Biol
+NlmId: 9919273552406676
