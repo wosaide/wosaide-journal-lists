@@ -304175,6 +304175,14 @@ ISSN (Online):
 IsoAbbr: Public Libr Q (N Y)
 NlmId: 101322399
 --------------------------------------------------------
+JrId: 55116
+JournalTitle: TouchREVIEWS in RMD
+MedAbbr: Touchrev RMD
+ISSN (Print): 
+ISSN (Online): 2635-1420
+IsoAbbr: Touchrev RMD
+NlmId: 9919269150106676
+--------------------------------------------------------
 JrId: 55117
 JournalTitle: Digest of technical papers. Symposium on VLSI Technology
 MedAbbr: Dig Tech Pap (N Y)
