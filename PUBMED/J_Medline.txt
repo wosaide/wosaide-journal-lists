@@ -304255,6 +304255,14 @@ ISSN (Online): 2978-1809
 IsoAbbr: BMJ Connect Surg
 NlmId: 9919269749706676
 --------------------------------------------------------
+JrId: 55130
+JournalTitle: Traffic safety research (Lund, Sweden)
+MedAbbr: Traffic Saf Res (Lund)
+ISSN (Print): 
+ISSN (Online): 2004-3082
+IsoAbbr: Traffic Saf Res (Lund)
+NlmId: 9918993995906676
+--------------------------------------------------------
 JrId: 55131
 JournalTitle: Archives of breast cancer
 MedAbbr: Arch Breast Cancer
@@ -304774,6 +304782,14 @@ ISSN (Print):
 ISSN (Online): 3117-3950
 IsoAbbr: Appet Disord Eat
 NlmId: 9919275853206676
+--------------------------------------------------------
+JrId: 55227
+JournalTitle: Resource-efficient medical image analysis : first MICCAI Workshop, REMIA 2022, Singapore, September 22, 2022, Proceedings. REMIA (Workshop) (1st : 2022 : Singapore ; Online)
+MedAbbr: Resour Effic Med Image Anal (2022)
+ISSN (Print): 
+ISSN (Online): 
+IsoAbbr: Resour Effic Med Image Anal (2022)
+NlmId: 9919276653306676
 --------------------------------------------------------
 JrId: 55229
 JournalTitle: Korean journal of adult nursing
