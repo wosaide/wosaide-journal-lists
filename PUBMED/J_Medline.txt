@@ -304799,6 +304799,14 @@ ISSN (Online):
 IsoAbbr: Korean J Adult Nurs
 NlmId: 101721302
 --------------------------------------------------------
+JrId: 55232
+JournalTitle: BMJ immunology
+MedAbbr: BMJ Immunol
+ISSN (Print): 
+ISSN (Online): 2977-5884
+IsoAbbr: BMJ Immunol
+NlmId: 9919276952906676
+--------------------------------------------------------
 JrId: 55234
 JournalTitle: Perinatal, Preterm and Paediatric Image Analysis. PIPPI (Workshop)
 MedAbbr: Perinat Preterm Paediatr Image Anal
@@ -304806,3 +304814,11 @@ ISSN (Print):
 ISSN (Online): 
 IsoAbbr: Perinat Preterm Paediatr Image Anal
 NlmId: 9919276449106676
+--------------------------------------------------------
+JrId: 55235
+JournalTitle: European heart journal. Valvular and structural heart disease
+MedAbbr: Eur Heart J Valvular Struct Heart Dis
+ISSN (Print): 
+ISSN (Online): 2977-8565
+IsoAbbr: Eur Heart J Valvular Struct Heart Dis
+NlmId: 9919276952706676
