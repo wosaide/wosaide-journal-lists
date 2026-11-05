@@ -239055,6 +239055,14 @@ ISSN (Online):
 IsoAbbr: Dermatol Rev Mex
 NlmId: 0373200
 --------------------------------------------------------
+JrId: 45382
+JournalTitle: Revue de chirurgie orthopedique et traumatologique
+MedAbbr: Rev Chir Orthop Traumatol
+ISSN (Print): 1877-0517
+ISSN (Online): 1877-0525
+IsoAbbr: Rev Chir Orthop Traumatol
+NlmId: 101519443
+--------------------------------------------------------
 JrId: 45385
 JournalTitle: NPJ genomic medicine
 MedAbbr: NPJ Genom Med
@@ -304783,6 +304791,14 @@ ISSN (Online): 3117-3950
 IsoAbbr: Appet Disord Eat
 NlmId: 9919275853206676
 --------------------------------------------------------
+JrId: 55226
+JournalTitle: 2025 IEEE Workshop on Topological Data Analysis and Visualization
+MedAbbr: 2025 IEEE Workshop Topol Data Anal Vis (2025)
+ISSN (Print): 
+ISSN (Online): 
+IsoAbbr: 2025 IEEE Workshop Topol Data Anal Vis (2025)
+NlmId: 9919276953406676
+--------------------------------------------------------
 JrId: 55227
 JournalTitle: Resource-efficient medical image analysis : first MICCAI Workshop, REMIA 2022, Singapore, September 22, 2022, Proceedings. REMIA (Workshop) (1st : 2022 : Singapore ; Online)
 MedAbbr: Resour Effic Med Image Anal (2022)
@@ -304798,6 +304814,14 @@ ISSN (Print):
 ISSN (Online): 
 IsoAbbr: Korean J Adult Nurs
 NlmId: 101721302
+--------------------------------------------------------
+JrId: 55230
+JournalTitle: Digital health and innovation
+MedAbbr: Digit Health Innov
+ISSN (Print): 
+ISSN (Online): 3042-9315
+IsoAbbr: Digit Health Innov
+NlmId: 9919276953206676
 --------------------------------------------------------
 JrId: 55232
 JournalTitle: BMJ immunology
