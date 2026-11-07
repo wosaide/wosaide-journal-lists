@@ -304846,3 +304846,27 @@ ISSN (Print):
 ISSN (Online): 2977-8565
 IsoAbbr: Eur Heart J Valvular Struct Heart Dis
 NlmId: 9919276952706676
+--------------------------------------------------------
+JrId: 55245
+JournalTitle: Npj soil ecology
+MedAbbr: Npj Soil Ecol
+ISSN (Print): 
+ISSN (Online): 3091-2814
+IsoAbbr: Npj Soil Ecol
+NlmId: 9919278249306676
+--------------------------------------------------------
+JrId: 55248
+JournalTitle: Anthropocene coasts
+MedAbbr: Anthr Coasts
+ISSN (Print): 
+ISSN (Online): 2561-4150
+IsoAbbr: Anthr Coasts
+NlmId: 9919279548106676
+--------------------------------------------------------
+JrId: 55249
+JournalTitle: Journal of outdoor and environmental education
+MedAbbr: J Outdoor Environ Educ
+ISSN (Print): 2206-3110
+ISSN (Online): 2522-879X
+IsoAbbr: J Outdoor Environ Educ
+NlmId: 9919279649206676
