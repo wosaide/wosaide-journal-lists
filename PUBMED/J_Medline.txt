@@ -304767,6 +304767,14 @@ ISSN (Online):
 IsoAbbr: Simpl Med Ultrasound
 NlmId: 9919274046706676
 --------------------------------------------------------
+JrId: 55217
+JournalTitle: Research directions. Sleep psychology
+MedAbbr: Res Dir Sleep Psychol
+ISSN (Print): 
+ISSN (Online): 2752-9479
+IsoAbbr: Res Dir Sleep Psychol
+NlmId: 9919274524506676
+--------------------------------------------------------
 JrId: 55219
 JournalTitle: The International journal of art & design education
 MedAbbr: Int J Art Des Educ
@@ -304846,6 +304854,14 @@ ISSN (Print):
 ISSN (Online): 2977-8565
 IsoAbbr: Eur Heart J Valvular Struct Heart Dis
 NlmId: 9919276952706676
+--------------------------------------------------------
+JrId: 55240
+JournalTitle: Academia materials science
+MedAbbr: Acad Mater Sci
+ISSN (Print): 
+ISSN (Online): 2997-2027
+IsoAbbr: Acad Mater Sci
+NlmId: 9919276568306676
 --------------------------------------------------------
 JrId: 55245
 JournalTitle: Npj soil ecology
