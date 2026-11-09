@@ -304855,6 +304855,14 @@ ISSN (Online): 2977-8565
 IsoAbbr: Eur Heart J Valvular Struct Heart Dis
 NlmId: 9919276952706676
 --------------------------------------------------------
+JrId: 55238
+JournalTitle: Statistical learning and data science
+MedAbbr: Stat Learn Data Sci
+ISSN (Print): 
+ISSN (Online): 3051-3901
+IsoAbbr: Stat Learn Data Sci
+NlmId: 9919276878306676
+--------------------------------------------------------
 JrId: 55240
 JournalTitle: Academia materials science
 MedAbbr: Acad Mater Sci
@@ -304886,3 +304894,11 @@ ISSN (Print): 2206-3110
 ISSN (Online): 2522-879X
 IsoAbbr: J Outdoor Environ Educ
 NlmId: 9919279649206676
+--------------------------------------------------------
+JrId: 55253
+JournalTitle: European radiology cardiovascular and thoracic
+MedAbbr: Eur Radiol Cardiovasc Thorac
+ISSN (Print): 
+ISSN (Online): 3120-4732
+IsoAbbr: Eur Radiol Cardiovasc Thorac
+NlmId: 9919279950906676
