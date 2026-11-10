@@ -304863,6 +304863,14 @@ ISSN (Online): 3051-3901
 IsoAbbr: Stat Learn Data Sci
 NlmId: 9919276878306676
 --------------------------------------------------------
+JrId: 55239
+JournalTitle: BMJ connections. Clinical genetics and genomics
+MedAbbr: BMJ Connect Clin Genet Genom
+ISSN (Print): 
+ISSN (Online): 3050-2551
+IsoAbbr: BMJ Connect Clin Genet Genom
+NlmId: 9919276878406676
+--------------------------------------------------------
 JrId: 55240
 JournalTitle: Academia materials science
 MedAbbr: Acad Mater Sci
@@ -304870,6 +304878,14 @@ ISSN (Print):
 ISSN (Online): 2997-2027
 IsoAbbr: Acad Mater Sci
 NlmId: 9919276568306676
+--------------------------------------------------------
+JrId: 55241
+JournalTitle: Sovremennaia zarubezhnaia psikhologiia = Journal of modern foreign psychology
+MedAbbr: Sovrem Zarubezhnaia Psikhologiia
+ISSN (Print): 
+ISSN (Online): 2304-4977
+IsoAbbr: Sovrem Zarubezhnaia Psikhologiia
+NlmId: 9919276878206676
 --------------------------------------------------------
 JrId: 55245
 JournalTitle: Npj soil ecology
@@ -304894,6 +304910,14 @@ ISSN (Print): 2206-3110
 ISSN (Online): 2522-879X
 IsoAbbr: J Outdoor Environ Educ
 NlmId: 9919279649206676
+--------------------------------------------------------
+JrId: 55250
+JournalTitle: Ophthalmic Medical Image Analysis. OMIA (Workshop)
+MedAbbr: Ophthalmic Med Image Anal
+ISSN (Print): 
+ISSN (Online): 
+IsoAbbr: Ophthalmic Med Image Anal
+NlmId: 9919280153206676
 --------------------------------------------------------
 JrId: 55253
 JournalTitle: European radiology cardiovascular and thoracic
