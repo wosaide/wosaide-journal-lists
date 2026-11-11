@@ -263303,14 +263303,6 @@ ISSN (Online):
 IsoAbbr: Comput Biomech Med Soft Tiss Musculoskelet Syst
 NlmId: 101568726
 --------------------------------------------------------
-JrId: 48992
-JournalTitle: Ophthalmic medical image analysis : 6th International Workshop, OMIA 2019, held in conjunction with MICCAI 2019, Shenzhen, China, October 17, Proceedings. OMIA (Workshop) (6th : 2019 : Shenzhen Shi, China)
-MedAbbr: Ophthalmic Med Image Anal (2019)
-ISSN (Print): 
-ISSN (Online): 
-IsoAbbr: Ophthalmic Med Image Anal (2019)
-NlmId: 101756610
---------------------------------------------------------
 JrId: 48993
 JournalTitle: South Eastern European journal of public health
 MedAbbr: South East Eur J Public Health
@@ -277215,14 +277207,6 @@ ISSN (Online): 2662-8651
 IsoAbbr: Mol Biomed
 NlmId: 9918283581406676
 --------------------------------------------------------
-JrId: 51064
-JournalTitle: Ophthalmic medical image analysis : 7th International Workshop, OMIA 2020, held in conjunction with MICCAI 2020, Lima, Peru, October 8, 2020, proceedings
-MedAbbr: Ophthalmic Med Image Anal (2020)
-ISSN (Print): 
-ISSN (Online): 
-IsoAbbr: Ophthalmic Med Image Anal (2020)
-NlmId: 9918284159106676
---------------------------------------------------------
 JrId: 51065
 JournalTitle: Financial markets and portfolio management
 MedAbbr: Financ Mark Portf Mang
@@ -290599,14 +290583,6 @@ ISSN (Online): 2523-2754
 IsoAbbr: Rev Cient Odontol (Lima)
 NlmId: 9918697384606676
 --------------------------------------------------------
-JrId: 53108
-JournalTitle: Ophthalmic medical image analysis : 10th International Workshop, OMIA 2023, held in conjunction with MICCAI 2023, Vancouver, BC, Canada, October 12, 2023, Proceedings. OMIA (Workshop) (10th : 2023 : Vancouver, B.C. ; Online)
-MedAbbr: Ophthalmic Med Image Anal (2023)
-ISSN (Print): 
-ISSN (Online): 
-IsoAbbr: Ophthalmic Med Image Anal (2023)
-NlmId: 9918751286106676
---------------------------------------------------------
 JrId: 53109
 JournalTitle: Journal of political economy microeconomics
 MedAbbr: J Polit Econ Microecon
@@ -295110,14 +295086,6 @@ ISSN (Print): 1350-4827
 ISSN (Online): 1469-8080
 IsoAbbr: Meteorol Appl
 NlmId: 9918917838006676
---------------------------------------------------------
-JrId: 53768
-JournalTitle: Ophthalmic medical image analysis : 11th International Workshop, OMIA 2024, held in Conjunction with MICCAI 2024, Marrakesh, Morocco, October 10, 2024, Proceedings. OMIA (Workshop) (11th : 2024 : Marrakech, Morocco)
-MedAbbr: Ophthalmic Med Image Anal (2024)
-ISSN (Print): 
-ISSN (Online): 
-IsoAbbr: Ophthalmic Med Image Anal (2024)
-NlmId: 9918917716906676
 --------------------------------------------------------
 JrId: 53769
 JournalTitle: Journal of scientific innovation in medicine
@@ -304798,6 +304766,14 @@ ISSN (Print):
 ISSN (Online): 3117-3950
 IsoAbbr: Appet Disord Eat
 NlmId: 9919275853206676
+--------------------------------------------------------
+JrId: 55222
+JournalTitle: Journal of dermatology research
+MedAbbr: J Dermatol Res
+ISSN (Print): 3050-8452
+ISSN (Online): 3050-8460
+IsoAbbr: J Dermatol Res
+NlmId: 9919275853306676
 --------------------------------------------------------
 JrId: 55226
 JournalTitle: 2025 IEEE Workshop on Topological Data Analysis and Visualization
