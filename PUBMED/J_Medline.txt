@@ -304615,6 +304615,14 @@ ISSN (Online): 3049-4761
 IsoAbbr: Mach Learn Eng
 NlmId: 9919272346006676
 --------------------------------------------------------
+JrId: 55194
+JournalTitle: Clinical practice review and meta-analysis
+MedAbbr: Clin Pract Rev Meta Anal
+ISSN (Print): 
+ISSN (Online): 2688-6650
+IsoAbbr: Clin Pract Rev Meta Anal
+NlmId: 9919273453006676
+--------------------------------------------------------
 JrId: 55196
 JournalTitle: Voluntary sector review
 MedAbbr: Volunt Sect Rev
@@ -304775,6 +304783,14 @@ ISSN (Online): 3050-8460
 IsoAbbr: J Dermatol Res
 NlmId: 9919275853306676
 --------------------------------------------------------
+JrId: 55225
+JournalTitle: ...International Conference on Indoor Air Quality, Ventilation & Energy Conservation in Buildings. International Conference on Indoor Air Quality, Ventilation & Energy Conservation in Buildings
+MedAbbr: Int Conf Indoor Air Qual Vent Energy Conserv Build
+ISSN (Print): 
+ISSN (Online): 
+IsoAbbr: Int Conf Indoor Air Qual Vent Energy Conserv Build
+NlmId: 9919276452106676
+--------------------------------------------------------
 JrId: 55226
 JournalTitle: 2025 IEEE Workshop on Topological Data Analysis and Visualization
 MedAbbr: 2025 IEEE Workshop Topol Data Anal Vis (2025)
@@ -304806,6 +304822,14 @@ ISSN (Print):
 ISSN (Online): 3042-9315
 IsoAbbr: Digit Health Innov
 NlmId: 9919276953206676
+--------------------------------------------------------
+JrId: 55231
+JournalTitle: eMicrobe
+MedAbbr: EMicrobe
+ISSN (Print): 
+ISSN (Online): 3083-4341
+IsoAbbr: EMicrobe
+NlmId: 9919276752806676
 --------------------------------------------------------
 JrId: 55232
 JournalTitle: BMJ immunology
