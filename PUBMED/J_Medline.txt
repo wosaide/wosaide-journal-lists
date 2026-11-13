@@ -304895,6 +304895,14 @@ ISSN (Online): 3091-2814
 IsoAbbr: Npj Soil Ecol
 NlmId: 9919278249306676
 --------------------------------------------------------
+JrId: 55246
+JournalTitle: Public health and toxicology
+MedAbbr: Public Health Toxicol
+ISSN (Print): 
+ISSN (Online): 2732-8929
+IsoAbbr: Public Health Toxicol
+NlmId: 9919279649106676
+--------------------------------------------------------
 JrId: 55248
 JournalTitle: Anthropocene coasts
 MedAbbr: Anthr Coasts
