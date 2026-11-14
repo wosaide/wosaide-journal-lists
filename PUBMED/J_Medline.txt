@@ -195763,7 +195763,7 @@ JrId: 39032
 JournalTitle: Topics in current genetics
 MedAbbr: Top Curr Genet
 ISSN (Print): 1610-2096
-ISSN (Online): 1610-6970
+ISSN (Online): 
 IsoAbbr: Top Curr Genet
 NlmId: 101198252
 --------------------------------------------------------
@@ -267066,7 +267066,7 @@ NlmId: 101766761
 JrId: 49555
 JournalTitle: Proceedings. IEEE Conference on Virtual Reality and 3D User Interfaces
 MedAbbr: Proc IEEE Conf Virtual Real 3D User Interfaces
-ISSN (Print): 2642-5246
+ISSN (Print): 
 ISSN (Online): 2642-5254
 IsoAbbr: Proc IEEE Conf Virtual Real 3D User Interfaces
 NlmId: 101766753
@@ -278250,7 +278250,7 @@ NlmId: 9918316882306676
 JrId: 51211
 JournalTitle: Resources, conservation & recycling advances
 MedAbbr: Resour Conserv Recycl Adv
-ISSN (Print): 2667-3789
+ISSN (Print): 
 ISSN (Online): 2667-3789
 IsoAbbr: Resour Conserv Recycl Adv
 NlmId: 9918316784506676
@@ -281290,7 +281290,7 @@ NlmId: 9918402378506676
 JrId: 51664
 JournalTitle: Frontiers in signal processing
 MedAbbr: Front Signal Process (Lausanne)
-ISSN (Print): 2673-8198
+ISSN (Print): 
 ISSN (Online): 2673-8198
 IsoAbbr: Front Signal Process (Lausanne)
 NlmId: 9918402378206676
@@ -283626,7 +283626,7 @@ NlmId: 9918471179406676
 JrId: 52015
 JournalTitle: Publications (Basel, Switzerland)
 MedAbbr: Publications (Basel)
-ISSN (Print): 2304-6775
+ISSN (Print): 
 ISSN (Online): 2304-6775
 IsoAbbr: Publications (Basel)
 NlmId: 9918486688606676
@@ -291682,8 +291682,8 @@ NlmId: 101481235
 JrId: 53271
 JournalTitle: 2023 IEEE 20th International Conference on Smart Communities: Improving Quality of Life using AI, Robotics and IoT (HONET)
 MedAbbr: 2023 IEEE 20th Int Conf Smart Communities Improv Qual Life Using AI Robot IoT HONET (2023)
-ISSN (Print): 1949-4092
-ISSN (Online): 1949-4106
+ISSN (Print): 
+ISSN (Online): 
 IsoAbbr: 2023 IEEE 20th Int Conf Smart Communities Improv Qual Life Using AI Robot IoT HONET (2023)
 NlmId: 9918787288606676
 --------------------------------------------------------
@@ -304623,6 +304623,14 @@ ISSN (Online): 2688-6650
 IsoAbbr: Clin Pract Rev Meta Anal
 NlmId: 9919273453006676
 --------------------------------------------------------
+JrId: 55195
+JournalTitle: Open access journal of medicine and healthcare
+MedAbbr: Open Access J Med Healthc
+ISSN (Print): 
+ISSN (Online): 3068-7691
+IsoAbbr: Open Access J Med Healthc
+NlmId: 9919273252706676
+--------------------------------------------------------
 JrId: 55196
 JournalTitle: Voluntary sector review
 MedAbbr: Volunt Sect Rev
@@ -304926,6 +304934,14 @@ ISSN (Print):
 ISSN (Online): 
 IsoAbbr: Ophthalmic Med Image Anal
 NlmId: 9919280153206676
+--------------------------------------------------------
+JrId: 55252
+JournalTitle: Neuroretina
+MedAbbr: Neuroretina
+ISSN (Print): 
+ISSN (Online): 3059-3662
+IsoAbbr: Neuroretina
+NlmId: 9919279547906676
 --------------------------------------------------------
 JrId: 55253
 JournalTitle: European radiology cardiovascular and thoracic
