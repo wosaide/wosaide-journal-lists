@@ -304815,6 +304815,14 @@ ISSN (Online):
 IsoAbbr: Resour Effic Med Image Anal (2022)
 NlmId: 9919276653306676
 --------------------------------------------------------
+JrId: 55228
+JournalTitle: Journal of hematology & thromboembolic diseases
+MedAbbr: J Hematol Thromboembolic Dis
+ISSN (Print): 
+ISSN (Online): 2329-8790
+IsoAbbr: J Hematol Thromboembolic Dis
+NlmId: 9919276953306676
+--------------------------------------------------------
 JrId: 55229
 JournalTitle: Korean journal of adult nursing
 MedAbbr: Korean J Adult Nurs
