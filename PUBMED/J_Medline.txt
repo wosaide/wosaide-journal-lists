@@ -304855,6 +304855,14 @@ ISSN (Online): 2977-5884
 IsoAbbr: BMJ Immunol
 NlmId: 9919276952906676
 --------------------------------------------------------
+JrId: 55233
+JournalTitle: Merits
+MedAbbr: Merits
+ISSN (Print): 
+ISSN (Online): 2673-8104
+IsoAbbr: Merits
+NlmId: 9919276953106676
+--------------------------------------------------------
 JrId: 55234
 JournalTitle: Perinatal, Preterm and Paediatric Image Analysis. PIPPI (Workshop)
 MedAbbr: Perinat Preterm Paediatr Image Anal
