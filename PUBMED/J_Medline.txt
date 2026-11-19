@@ -304951,6 +304951,14 @@ ISSN (Online):
 IsoAbbr: Ophthalmic Med Image Anal
 NlmId: 9919280153206676
 --------------------------------------------------------
+JrId: 55251
+JournalTitle: Water quality research journal
+MedAbbr: Water Qual Res J
+ISSN (Print): 2709-8044
+ISSN (Online): 2709-8052
+IsoAbbr: Water Qual Res J
+NlmId: 9919254115006676
+--------------------------------------------------------
 JrId: 55252
 JournalTitle: Neuroretina
 MedAbbr: Neuroretina
