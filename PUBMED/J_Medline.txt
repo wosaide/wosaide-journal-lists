@@ -28323,7 +28323,7 @@ JrId: 3686
 JournalTitle: Faraday discussions of the Chemical Society
 MedAbbr: Faraday Discuss Chem Soc
 ISSN (Print): 0301-7249
-ISSN (Online): 
+ISSN (Online): 2050-8417
 IsoAbbr: Faraday Discuss Chem Soc
 NlmId: 7507112
 --------------------------------------------------------
@@ -51995,7 +51995,7 @@ JrId: 6736
 JournalTitle: Przeglad lekarski
 MedAbbr: Przegl Lek
 ISSN (Print): 0033-2240
-ISSN (Online): 
+ISSN (Online): 3072-0036
 IsoAbbr: Przegl Lek
 NlmId: 19840720R
 --------------------------------------------------------
@@ -164763,7 +164763,7 @@ JrId: 34182
 JournalTitle: European annals of allergy and clinical immunology
 MedAbbr: Eur Ann Allergy Clin Immunol
 ISSN (Print): 1764-1489
-ISSN (Online): 
+ISSN (Online): 2845-7285
 IsoAbbr: Eur Ann Allergy Clin Immunol
 NlmId: 101466614
 --------------------------------------------------------
@@ -254463,6 +254463,14 @@ ISSN (Online): 1996-1421
 IsoAbbr: Jamba
 NlmId: 101606753
 --------------------------------------------------------
+JrId: 47679
+JournalTitle: Mitteilungen aus dem Museum fur Naturkunde in Berlin. Fossil record
+MedAbbr: Mitt Mus Nat Berl Foss Rec
+ISSN (Print): 2193-0066
+ISSN (Online): 2193-0074
+IsoAbbr: Mitt Mus Nat Berl Foss Rec
+NlmId: 101729034
+--------------------------------------------------------
 JrId: 47680
 JournalTitle: The obstetrician & gynaecologist : the journal for continuing professional development from the Royal College of Obstetricians & Gynaecologists
 MedAbbr: Obstet Gynaecol
@@ -304878,6 +304886,14 @@ ISSN (Print):
 ISSN (Online): 2977-8565
 IsoAbbr: Eur Heart J Valvular Struct Heart Dis
 NlmId: 9919276952706676
+--------------------------------------------------------
+JrId: 55237
+JournalTitle: The EANM journal
+MedAbbr: EANM J
+ISSN (Print): 
+ISSN (Online): 3051-2921
+IsoAbbr: EANM J
+NlmId: 9919276568506676
 --------------------------------------------------------
 JrId: 55238
 JournalTitle: Statistical learning and data science
