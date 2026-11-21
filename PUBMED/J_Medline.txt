@@ -217826,7 +217826,7 @@ NlmId: 101626556
 JrId: 42329
 JournalTitle: Inorganic chemistry frontiers
 MedAbbr: Inorg Chem Front
-ISSN (Print): 
+ISSN (Print): 2052-1545
 ISSN (Online): 2052-1553
 IsoAbbr: Inorg Chem Front
 NlmId: 101626612
@@ -300576,9 +300576,9 @@ IsoAbbr: Front Imaging
 NlmId: 9919210571306676
 --------------------------------------------------------
 JrId: 54572
-JournalTitle: 4Open
+JournalTitle: 4 open
 MedAbbr: 4Open
-ISSN (Print): 2557-0250
+ISSN (Print): 
 ISSN (Online): 2557-0250
 IsoAbbr: 4Open
 NlmId: 101751294
@@ -304351,6 +304351,14 @@ ISSN (Online):
 IsoAbbr: 6th Int Conf Wirel Intell Distrib Environ Commun (2023)
 NlmId: 9919269342706676
 --------------------------------------------------------
+JrId: 55148
+JournalTitle: Journal of dental hygiene science
+MedAbbr: J Dent Hyg Sci
+ISSN (Print): 1598-4478
+ISSN (Online): 2233-7679
+IsoAbbr: J Dent Hyg Sci
+NlmId: 101707917
+--------------------------------------------------------
 JrId: 55149
 JournalTitle: Psychotherapie (Heidelberg, Germany)
 MedAbbr: Psychotherapie (Heidelb)
@@ -304990,3 +304998,27 @@ ISSN (Print):
 ISSN (Online): 3120-4732
 IsoAbbr: Eur Radiol Cardiovasc Thorac
 NlmId: 9919279950906676
+--------------------------------------------------------
+JrId: 55258
+JournalTitle: Npj palaeoecosystems
+MedAbbr: Npj Palaeoecosystems
+ISSN (Print): 
+ISSN (Online): 3091-390X
+IsoAbbr: Npj Palaeoecosystems
+NlmId: 9919281653206676
+--------------------------------------------------------
+JrId: 55259
+JournalTitle: Discover pediatrics
+MedAbbr: Discov Pediatr
+ISSN (Print): 
+ISSN (Online): 3120-4929
+IsoAbbr: Discov Pediatr
+NlmId: 9919281353206676
+--------------------------------------------------------
+JrId: 55264
+JournalTitle: Applied earth science (2018)
+MedAbbr: Appl Earth Sci (2018)
+ISSN (Print): 2572-6838
+ISSN (Online): 2572-6846
+IsoAbbr: Appl Earth Sci (2018)
+NlmId: 9919281253306676
